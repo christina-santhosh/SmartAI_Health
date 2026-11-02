@@ -1,0 +1,32 @@
+{
+  "domain": "public_cleveland_heart",
+  "dataset_name": "Public UCI Cleveland Heart Disease",
+  "selected_model": "Logistic_Regression",
+  "selection_criteria": "Primary: 5-fold CV AUC mean. Secondary: Brier score.",
+  "oof_threshold": 0.6486,
+  "cv_auc_mean": 0.896,
+  "cv_auc_std": 0.0148,
+  "test_roc_auc": 0.9513,
+  "test_pr_auc": 0.9234,
+  "test_sensitivity": 0.8929,
+  "test_specificity": 0.8788,
+  "test_f1": 0.8772,
+  "test_brier_uncalibrated": 0.0918,
+  "test_brier_calibrated": 0.097,
+  "random_seed": 42,
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ]
+}

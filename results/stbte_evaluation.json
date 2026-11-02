@@ -1,0 +1,74 @@
+{
+  "ST-BTE": {
+    "sensitivity": 1.0,
+    "specificity": 0.1418,
+    "false_positive_rate": 0.8582,
+    "false_negative_rate": 0.0,
+    "true_positives": 91,
+    "false_positives": 351,
+    "true_negatives": 58,
+    "false_negatives": 0,
+    "lead_time_mean_days": 5.66,
+    "lead_time_median_days": 7.66,
+    "lead_time_std_days": 5.21,
+    "lead_time_95ci_days": [
+      4.59,
+      6.74
+    ],
+    "evaluated_patients": 500
+  },
+  "Fixed Population Threshold": {
+    "sensitivity": 0.9942,
+    "specificity": 0.6911,
+    "false_positive_rate": 0.3089,
+    "false_negative_rate": 0.0058,
+    "true_positives": 172,
+    "false_positives": 101,
+    "true_negatives": 226,
+    "false_negatives": 1,
+    "lead_time_mean_days": 0.52,
+    "lead_time_median_days": -0.24,
+    "lead_time_std_days": 2.31,
+    "lead_time_95ci_days": [
+      0.17,
+      0.87
+    ],
+    "evaluated_patients": 500
+  },
+  "Rolling Mean/Std (7-pt)": {
+    "sensitivity": 1.0,
+    "specificity": 0.1148,
+    "false_positive_rate": 0.8852,
+    "false_negative_rate": 0.0,
+    "true_positives": 134,
+    "false_positives": 324,
+    "true_negatives": 42,
+    "false_negatives": 0,
+    "lead_time_mean_days": 5.61,
+    "lead_time_median_days": 7.78,
+    "lead_time_std_days": 5.55,
+    "lead_time_95ci_days": [
+      4.67,
+      6.55
+    ],
+    "evaluated_patients": 500
+  },
+  "EWMA (alpha=0.2)": {
+    "sensitivity": 1.0,
+    "specificity": 0.0812,
+    "false_positive_rate": 0.9188,
+    "false_negative_rate": 0.0,
+    "true_positives": 69,
+    "false_positives": 396,
+    "true_negatives": 35,
+    "false_negatives": 0,
+    "lead_time_mean_days": 5.44,
+    "lead_time_median_days": 6.98,
+    "lead_time_std_days": 5.37,
+    "lead_time_95ci_days": [
+      4.17,
+      6.72
+    ],
+    "evaluated_patients": 500
+  }
+}

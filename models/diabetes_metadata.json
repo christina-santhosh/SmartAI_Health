@@ -1,0 +1,30 @@
+{
+  "domain": "diabetes",
+  "dataset_name": "Synthetic Diabetes Cohort",
+  "selected_model": "Logistic_Regression",
+  "selection_criteria": "Primary: 5-fold CV AUC mean. Secondary: Brier score.",
+  "oof_threshold": 0.3778,
+  "cv_auc_mean": 0.904,
+  "cv_auc_std": 0.0152,
+  "test_roc_auc": 0.9181,
+  "test_pr_auc": 0.8775,
+  "test_sensitivity": 0.8667,
+  "test_specificity": 0.8083,
+  "test_f1": 0.8046,
+  "test_brier_uncalibrated": 0.1143,
+  "test_brier_calibrated": 0.1143,
+  "random_seed": 42,
+  "feature_names": [
+    "age",
+    "sex",
+    "bmi",
+    "fasting_glucose",
+    "hba1c",
+    "insulin",
+    "systolic_bp",
+    "diastolic_bp",
+    "physical_activity_min",
+    "family_history_diabetes",
+    "diet_score"
+  ]
+}

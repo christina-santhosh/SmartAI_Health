@@ -1,0 +1,27 @@
+{
+  "domain": "public_pima_diabetes",
+  "dataset_name": "Public NIDDK Pima Indians Diabetes",
+  "selected_model": "CatBoost",
+  "selection_criteria": "Primary: 5-fold CV AUC mean. Secondary: Brier score.",
+  "oof_threshold": 0.2792,
+  "cv_auc_mean": 0.8335,
+  "cv_auc_std": 0.0227,
+  "test_roc_auc": 0.8194,
+  "test_pr_auc": 0.6924,
+  "test_sensitivity": 0.8519,
+  "test_specificity": 0.66,
+  "test_f1": 0.6866,
+  "test_brier_uncalibrated": 0.166,
+  "test_brier_calibrated": 0.168,
+  "random_seed": 42,
+  "feature_names": [
+    "pregnancies",
+    "glucose",
+    "blood_pressure",
+    "skin_thickness",
+    "insulin",
+    "bmi",
+    "diabetes_pedigree",
+    "age"
+  ]
+}

@@ -1,0 +1,9 @@
+Method,Gamma,Mean Composite Risk (%),Test ROC-AUC,Brier Score
+"Method A (Bounded Heuristic, gamma=1.0)",1.0,52.96,0.8551,0.1578
+"Method A (Bounded Heuristic, gamma=1.1)",1.1,53.26,0.8551,0.1582
+"Method A (Bounded Heuristic, gamma=1.2)",1.2,53.53,0.8549,0.1587
+"Method A (Bounded Heuristic, gamma=1.25)",1.25,53.66,0.8551,0.1588
+"Method A (Bounded Heuristic, gamma=1.3)",1.3,53.78,0.8553,0.159
+"Method A (Bounded Heuristic, gamma=1.4)",1.4,53.99,0.8556,0.1595
+"Method A (Bounded Heuristic, gamma=1.5)",1.5,54.17,0.8555,0.1599
+Method C (Integrated Multi-Morbidity Pipeline),1.0,48.14,0.8625,0.1511

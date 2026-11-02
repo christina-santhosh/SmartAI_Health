@@ -1,0 +1,2001 @@
+detector,patient_id,cohort,has_event,alarm_triggered,first_alarm_day,is_tp,is_fp,is_fn,is_tn,lead_time
+ST-BTE,1,stable,False,True,14.179845863517059,False,True,False,False,
+ST-BTE,2,stable,False,True,33.98698936526784,False,True,False,False,
+ST-BTE,3,stable,False,True,9.38240295423072,False,True,False,False,
+ST-BTE,4,stable,False,True,52.81990510247606,False,True,False,False,
+ST-BTE,5,stable,False,True,9.478048163176501,False,True,False,False,
+ST-BTE,6,stable,False,False,,False,False,False,True,
+ST-BTE,7,stable,False,True,9.571435607447116,False,True,False,False,
+ST-BTE,8,stable,False,True,8.245573399727299,False,True,False,False,
+ST-BTE,9,stable,False,True,11.03367782111244,False,True,False,False,
+ST-BTE,10,stable,False,True,26.159183584710394,False,True,False,False,
+ST-BTE,11,stable,False,True,21.09658595615683,False,True,False,False,
+ST-BTE,12,stable,False,True,14.63563277907825,False,True,False,False,
+ST-BTE,13,stable,False,False,,False,False,False,True,
+ST-BTE,14,stable,False,True,9.335682364420979,False,True,False,False,
+ST-BTE,15,stable,False,True,22.985056312163703,False,True,False,False,
+ST-BTE,16,stable,False,True,15.12861123079923,False,True,False,False,
+ST-BTE,17,stable,False,False,,False,False,False,True,
+ST-BTE,18,stable,False,True,28.421470420021894,False,True,False,False,
+ST-BTE,19,stable,False,True,44.20950849522193,False,True,False,False,
+ST-BTE,20,stable,False,True,30.04443664665614,False,True,False,False,
+ST-BTE,21,stable,False,True,48.74024212280018,False,True,False,False,
+ST-BTE,22,stable,False,True,21.924003818058708,False,True,False,False,
+ST-BTE,23,stable,False,True,22.95838167846439,False,True,False,False,
+ST-BTE,24,stable,False,True,9.098171942389001,False,True,False,False,
+ST-BTE,25,stable,False,True,36.508818498449244,False,True,False,False,
+ST-BTE,26,stable,False,True,11.898407584115649,False,True,False,False,
+ST-BTE,27,stable,False,False,,False,False,False,True,
+ST-BTE,28,stable,False,True,18.185378566302134,False,True,False,False,
+ST-BTE,29,stable,False,False,,False,False,False,True,
+ST-BTE,30,stable,False,True,34.79337226024318,False,True,False,False,
+ST-BTE,31,stable,False,True,10.809813028205634,False,True,False,False,
+ST-BTE,32,stable,False,False,,False,False,False,True,
+ST-BTE,33,stable,False,True,17.63975998668038,False,True,False,False,
+ST-BTE,34,stable,False,True,12.761846251331214,False,True,False,False,
+ST-BTE,35,stable,False,True,11.138828401514294,False,True,False,False,
+ST-BTE,36,stable,False,False,,False,False,False,True,
+ST-BTE,37,stable,False,False,,False,False,False,True,
+ST-BTE,38,stable,False,True,6.677230252461863,False,True,False,False,
+ST-BTE,39,stable,False,True,10.064896673736554,False,True,False,False,
+ST-BTE,40,stable,False,True,11.910045231038376,False,True,False,False,
+ST-BTE,41,stable,False,True,13.119657234107615,False,True,False,False,
+ST-BTE,42,stable,False,True,15.549467715997084,False,True,False,False,
+ST-BTE,43,stable,False,True,8.182933552715507,False,True,False,False,
+ST-BTE,44,stable,False,True,48.3123768619613,False,True,False,False,
+ST-BTE,45,stable,False,False,,False,False,False,True,
+ST-BTE,46,stable,False,False,,False,False,False,True,
+ST-BTE,47,stable,False,False,,False,False,False,True,
+ST-BTE,48,stable,False,False,,False,False,False,True,
+ST-BTE,49,stable,False,True,13.564739415940602,False,True,False,False,
+ST-BTE,50,stable,False,True,13.146782324646876,False,True,False,False,
+ST-BTE,51,stable,False,True,9.49971593758815,False,True,False,False,
+ST-BTE,52,stable,False,True,39.6763305700461,False,True,False,False,
+ST-BTE,53,stable,False,True,32.83548016238089,False,True,False,False,
+ST-BTE,54,stable,False,True,27.736887832685294,False,True,False,False,
+ST-BTE,55,stable,False,True,18.504013717714425,False,True,False,False,
+ST-BTE,56,stable,False,False,,False,False,False,True,
+ST-BTE,57,stable,False,False,,False,False,False,True,
+ST-BTE,58,stable,False,False,,False,False,False,True,
+ST-BTE,59,stable,False,True,47.14046166326446,False,True,False,False,
+ST-BTE,60,stable,False,False,,False,False,False,True,
+ST-BTE,61,stable,False,False,,False,False,False,True,
+ST-BTE,62,stable,False,True,36.34690337282411,False,True,False,False,
+ST-BTE,63,stable,False,True,44.22630798496519,False,True,False,False,
+ST-BTE,64,stable,False,True,31.993949709289417,False,True,False,False,
+ST-BTE,65,stable,False,True,6.35094317425161,False,True,False,False,
+ST-BTE,66,stable,False,True,11.959702284741832,False,True,False,False,
+ST-BTE,67,stable,False,True,11.335997675867,False,True,False,False,
+ST-BTE,68,stable,False,True,14.703519482143161,False,True,False,False,
+ST-BTE,69,stable,False,True,13.026493315534434,False,True,False,False,
+ST-BTE,70,stable,False,True,10.173736091819276,False,True,False,False,
+ST-BTE,71,stable,False,True,47.195065600445474,False,True,False,False,
+ST-BTE,72,stable,False,True,11.139498614233483,False,True,False,False,
+ST-BTE,73,stable,False,True,31.08869382654592,False,True,False,False,
+ST-BTE,74,stable,False,True,47.7963979370464,False,True,False,False,
+ST-BTE,75,stable,False,True,32.145996428272966,False,True,False,False,
+ST-BTE,76,stable,False,True,15.998212520847519,False,True,False,False,
+ST-BTE,77,stable,False,True,35.14870541339518,False,True,False,False,
+ST-BTE,78,stable,False,False,,False,False,False,True,
+ST-BTE,79,stable,False,True,38.96505804418094,False,True,False,False,
+ST-BTE,80,stable,False,True,19.392998388758016,False,True,False,False,
+ST-BTE,81,stable,False,True,29.375285897019424,False,True,False,False,
+ST-BTE,82,stable,False,True,12.318303809887212,False,True,False,False,
+ST-BTE,83,stable,False,True,20.99643925002535,False,True,False,False,
+ST-BTE,84,stable,False,True,5.751353282749006,False,True,False,False,
+ST-BTE,85,stable,False,True,35.42956509644199,False,True,False,False,
+ST-BTE,86,stable,False,True,26.642165084232193,False,True,False,False,
+ST-BTE,87,stable,False,True,10.226161779995131,False,True,False,False,
+ST-BTE,88,stable,False,True,54.3294518935853,False,True,False,False,
+ST-BTE,89,stable,False,True,24.98898213698741,False,True,False,False,
+ST-BTE,90,stable,False,False,,False,False,False,True,
+ST-BTE,91,stable,False,True,8.099713168367087,False,True,False,False,
+ST-BTE,92,stable,False,False,,False,False,False,True,
+ST-BTE,93,stable,False,True,24.599385675061512,False,True,False,False,
+ST-BTE,94,stable,False,False,,False,False,False,True,
+ST-BTE,95,stable,False,True,16.52362663347144,False,True,False,False,
+ST-BTE,96,stable,False,False,,False,False,False,True,
+ST-BTE,97,stable,False,True,12.49438378772549,False,True,False,False,
+ST-BTE,98,stable,False,True,17.639841782274203,False,True,False,False,
+ST-BTE,99,stable,False,True,31.645304581820877,False,True,False,False,
+ST-BTE,100,stable,False,True,32.92845362694722,False,True,False,False,
+ST-BTE,101,stable,False,True,43.77883735095123,False,True,False,False,
+ST-BTE,102,stable,False,False,,False,False,False,True,
+ST-BTE,103,stable,False,True,9.025500187829003,False,True,False,False,
+ST-BTE,104,stable,False,True,27.43296238637066,False,True,False,False,
+ST-BTE,105,stable,False,False,,False,False,False,True,
+ST-BTE,106,stable,False,True,5.830774782306862,False,True,False,False,
+ST-BTE,107,stable,False,False,,False,False,False,True,
+ST-BTE,108,stable,False,True,27.67702674231844,False,True,False,False,
+ST-BTE,109,stable,False,False,,False,False,False,True,
+ST-BTE,110,stable,False,False,,False,False,False,True,
+ST-BTE,111,stable,False,True,18.17309928196668,False,True,False,False,
+ST-BTE,112,stable,False,True,20.791850669972806,False,True,False,False,
+ST-BTE,113,stable,False,True,10.306950438222344,False,True,False,False,
+ST-BTE,114,stable,False,True,16.012425254736797,False,True,False,False,
+ST-BTE,115,stable,False,True,7.634942329273985,False,True,False,False,
+ST-BTE,116,stable,False,False,,False,False,False,True,
+ST-BTE,117,stable,False,True,22.003106789152,False,True,False,False,
+ST-BTE,118,stable,False,True,45.81619534582356,False,True,False,False,
+ST-BTE,119,stable,False,True,29.64742415713585,False,True,False,False,
+ST-BTE,120,stable,False,True,37.43518970383771,False,True,False,False,
+ST-BTE,121,stable,False,True,42.48799009402679,False,True,False,False,
+ST-BTE,122,stable,False,False,,False,False,False,True,
+ST-BTE,123,stable,False,True,13.588685583179055,False,True,False,False,
+ST-BTE,124,stable,False,False,,False,False,False,True,
+ST-BTE,125,stable,False,True,24.36211536177499,False,True,False,False,
+ST-BTE,126,gradual_drift,True,True,32.01905527285441,True,False,False,False,12.65185749351972
+ST-BTE,127,gradual_drift,True,True,11.005692386500034,False,True,False,False,
+ST-BTE,128,gradual_drift,True,True,42.08836846703635,True,False,False,False,7.561503320976129
+ST-BTE,129,gradual_drift,True,True,12.472658313043835,False,True,False,False,
+ST-BTE,130,gradual_drift,True,True,18.02829596026335,False,True,False,False,
+ST-BTE,131,gradual_drift,True,True,16.54856937976288,False,True,False,False,
+ST-BTE,132,gradual_drift,True,True,39.739547367152184,True,False,False,False,9.30822664599878
+ST-BTE,133,gradual_drift,True,True,13.901834208717132,False,True,False,False,
+ST-BTE,134,gradual_drift,True,True,16.425071020056173,False,True,False,False,
+ST-BTE,135,gradual_drift,True,True,11.257234350209403,False,True,False,False,
+ST-BTE,136,gradual_drift,True,True,35.79233499999956,True,False,False,False,11.562605940343872
+ST-BTE,137,gradual_drift,True,True,9.17726574300631,False,True,False,False,
+ST-BTE,138,gradual_drift,True,True,9.701380232369377,False,True,False,False,
+ST-BTE,139,gradual_drift,True,True,19.521074250454017,False,True,False,False,
+ST-BTE,140,gradual_drift,True,True,20.67012041023255,False,True,False,False,
+ST-BTE,141,gradual_drift,True,True,37.18700852549652,True,False,False,False,10.004477340359358
+ST-BTE,142,gradual_drift,True,True,22.496053972205225,False,True,False,False,
+ST-BTE,143,gradual_drift,True,True,16.48068195859615,False,True,False,False,
+ST-BTE,144,gradual_drift,True,True,13.33687871693854,False,True,False,False,
+ST-BTE,145,gradual_drift,True,True,33.848495946115605,True,False,False,False,12.356101816392162
+ST-BTE,146,gradual_drift,True,True,7.404096580386274,False,True,False,False,
+ST-BTE,147,gradual_drift,True,True,10.443040968240371,False,True,False,False,
+ST-BTE,148,gradual_drift,True,True,37.06031604816146,True,False,False,False,10.950187097192952
+ST-BTE,149,gradual_drift,True,True,40.41354360647818,True,False,False,False,8.876176453527577
+ST-BTE,150,gradual_drift,True,True,36.27687005375341,True,False,False,False,6.981771348738924
+ST-BTE,151,gradual_drift,True,True,38.09312467964639,True,False,False,False,9.501782869045854
+ST-BTE,152,gradual_drift,True,True,45.996329089262964,True,False,False,False,5.768895922070044
+ST-BTE,153,gradual_drift,True,True,45.891931681489645,True,False,False,False,4.243321432856064
+ST-BTE,154,gradual_drift,True,True,23.039833565682574,False,True,False,False,
+ST-BTE,155,gradual_drift,True,True,42.57838717518143,True,False,False,False,8.597749151142061
+ST-BTE,156,gradual_drift,True,True,24.0998678223166,False,True,False,False,
+ST-BTE,157,gradual_drift,True,True,13.912155101802995,False,True,False,False,
+ST-BTE,158,gradual_drift,True,True,8.227215595774098,False,True,False,False,
+ST-BTE,159,gradual_drift,True,True,20.349937350567533,False,True,False,False,
+ST-BTE,160,gradual_drift,True,True,35.85081150775243,True,False,False,False,8.973779788374607
+ST-BTE,161,gradual_drift,True,True,34.46875376134734,True,False,False,False,9.251868122824341
+ST-BTE,162,gradual_drift,True,True,27.907455389343127,False,True,False,False,
+ST-BTE,163,gradual_drift,True,True,41.919943134388696,True,False,False,False,9.644083320385668
+ST-BTE,164,gradual_drift,True,True,26.303041279276172,False,True,False,False,
+ST-BTE,165,gradual_drift,True,True,37.27077214521085,True,False,False,False,9.7972153234452
+ST-BTE,166,gradual_drift,True,True,14.596261512663874,False,True,False,False,
+ST-BTE,167,gradual_drift,True,True,41.631665014287464,True,False,False,False,6.426664530459668
+ST-BTE,168,gradual_drift,True,True,35.20580385507515,True,False,False,False,9.162184964224764
+ST-BTE,169,gradual_drift,True,True,40.928607400102884,True,False,False,False,7.662726931076065
+ST-BTE,170,gradual_drift,True,True,46.596725449428185,True,False,False,False,3.9931789865687364
+ST-BTE,171,gradual_drift,True,True,6.55131500395156,False,True,False,False,
+ST-BTE,172,gradual_drift,True,True,42.150210545836934,True,False,False,False,6.200717326260126
+ST-BTE,173,gradual_drift,True,True,28.33437631702587,False,True,False,False,
+ST-BTE,174,gradual_drift,True,True,9.091400252562213,False,True,False,False,
+ST-BTE,175,gradual_drift,True,True,22.755105488601615,False,True,False,False,
+ST-BTE,176,gradual_drift,True,True,33.60462063367733,True,False,False,False,10.828768146711269
+ST-BTE,177,gradual_drift,True,True,17.905400827870803,False,True,False,False,
+ST-BTE,178,gradual_drift,True,True,16.312787108594335,False,True,False,False,
+ST-BTE,179,gradual_drift,True,True,28.346113949486618,False,True,False,False,
+ST-BTE,180,gradual_drift,True,True,12.577672189749414,False,True,False,False,
+ST-BTE,181,gradual_drift,True,True,7.348513397482059,False,True,False,False,
+ST-BTE,182,gradual_drift,True,True,25.422881257450097,False,True,False,False,
+ST-BTE,183,gradual_drift,True,True,16.54979458222587,False,True,False,False,
+ST-BTE,184,gradual_drift,True,True,28.248403846517263,False,True,False,False,
+ST-BTE,185,gradual_drift,True,True,34.96375677976611,True,False,False,False,9.94591503353849
+ST-BTE,186,gradual_drift,True,True,11.622529859706919,False,True,False,False,
+ST-BTE,187,gradual_drift,True,True,45.149574336588955,True,False,False,False,0.4500849349879701
+ST-BTE,188,gradual_drift,True,True,36.81293772773845,True,False,False,False,6.366832483327151
+ST-BTE,189,gradual_drift,True,True,36.33278531761121,True,False,False,False,11.776745095703845
+ST-BTE,190,gradual_drift,True,True,34.45156915889865,True,False,False,False,11.404172303060534
+ST-BTE,191,gradual_drift,True,True,11.544184043163812,False,True,False,False,
+ST-BTE,192,gradual_drift,True,True,51.14667750510505,True,False,False,False,0.7924646166254163
+ST-BTE,193,gradual_drift,True,True,21.51488502288613,False,True,False,False,
+ST-BTE,194,gradual_drift,True,True,14.191518074048124,False,True,False,False,
+ST-BTE,195,gradual_drift,True,True,30.961205476894087,True,False,False,False,12.525112521476906
+ST-BTE,196,gradual_drift,True,True,11.901566201909798,False,True,False,False,
+ST-BTE,197,gradual_drift,True,True,43.592053011720814,True,False,False,False,8.268547466985723
+ST-BTE,198,gradual_drift,True,True,42.96944251315713,True,False,False,False,8.963904441948294
+ST-BTE,199,gradual_drift,True,True,28.610934531270352,True,False,False,False,14.80363967827141
+ST-BTE,200,gradual_drift,True,True,24.496861934591948,False,True,False,False,
+ST-BTE,201,gradual_drift,True,True,38.79689149168772,True,False,False,False,8.875977564259713
+ST-BTE,202,gradual_drift,True,True,38.6419569726449,True,False,False,False,9.466125070615618
+ST-BTE,203,gradual_drift,True,True,11.538820401462594,False,True,False,False,
+ST-BTE,204,gradual_drift,True,True,22.231061051477297,False,True,False,False,
+ST-BTE,205,gradual_drift,True,True,11.728392632078318,False,True,False,False,
+ST-BTE,206,gradual_drift,True,True,39.674552812452795,True,False,False,False,9.358832867557794
+ST-BTE,207,gradual_drift,True,True,25.933327495685216,False,True,False,False,
+ST-BTE,208,gradual_drift,True,True,31.143376442196562,False,True,False,False,
+ST-BTE,209,gradual_drift,True,True,11.08838073176725,False,True,False,False,
+ST-BTE,210,gradual_drift,True,True,25.220846398680827,False,True,False,False,
+ST-BTE,211,gradual_drift,True,True,12.733692533298369,False,True,False,False,
+ST-BTE,212,gradual_drift,True,True,11.88519738736121,False,True,False,False,
+ST-BTE,213,gradual_drift,True,True,14.108409485869245,False,True,False,False,
+ST-BTE,214,gradual_drift,True,True,12.932867056145396,False,True,False,False,
+ST-BTE,215,gradual_drift,True,True,12.577758255551464,False,True,False,False,
+ST-BTE,216,gradual_drift,True,True,31.162643936040666,True,False,False,False,11.515630870599836
+ST-BTE,217,gradual_drift,True,True,9.180310991605012,False,True,False,False,
+ST-BTE,218,gradual_drift,True,True,38.64335753209927,True,False,False,False,9.895712564799254
+ST-BTE,219,gradual_drift,True,True,33.396061946111146,True,False,False,False,8.984428381243973
+ST-BTE,220,gradual_drift,True,True,33.79409793389468,True,False,False,False,11.063595830962477
+ST-BTE,221,gradual_drift,True,True,32.9793418049354,True,False,False,False,11.185619822128814
+ST-BTE,222,gradual_drift,True,True,41.178119819445,True,False,False,False,10.13471792104884
+ST-BTE,223,gradual_drift,True,True,6.57971901181876,False,True,False,False,
+ST-BTE,224,gradual_drift,True,True,33.62703460856503,True,False,False,False,8.716693395698393
+ST-BTE,225,gradual_drift,True,True,35.56960607466219,True,False,False,False,10.328979307390725
+ST-BTE,226,gradual_drift,True,True,37.94775773656697,True,False,False,False,6.035993281655948
+ST-BTE,227,gradual_drift,True,True,33.72904577463949,True,False,False,False,11.491821483317025
+ST-BTE,228,gradual_drift,True,True,41.67387543695311,True,False,False,False,9.401003350321076
+ST-BTE,229,gradual_drift,True,True,26.024889837802444,False,True,False,False,
+ST-BTE,230,gradual_drift,True,True,40.30023977267687,True,False,False,False,9.93334966306616
+ST-BTE,231,gradual_drift,True,True,42.00345459233178,True,False,False,False,8.522737898152485
+ST-BTE,232,gradual_drift,True,True,17.271595016047463,False,True,False,False,
+ST-BTE,233,gradual_drift,True,True,36.44179099360002,True,False,False,False,8.812954465018208
+ST-BTE,234,gradual_drift,True,True,40.92307413629765,True,False,False,False,5.499503310230722
+ST-BTE,235,gradual_drift,True,True,17.670273280441627,False,True,False,False,
+ST-BTE,236,gradual_drift,True,True,39.202865196544685,True,False,False,False,4.046923047721457
+ST-BTE,237,gradual_drift,True,True,41.2845647399145,True,False,False,False,10.674123917980864
+ST-BTE,238,gradual_drift,True,True,25.06954621371406,False,True,False,False,
+ST-BTE,239,gradual_drift,True,True,33.35292535724767,True,False,False,False,14.166168833105601
+ST-BTE,240,gradual_drift,True,True,35.70611742902084,True,False,False,False,9.500649417498373
+ST-BTE,241,gradual_drift,True,True,38.17181786306729,True,False,False,False,10.071080505465616
+ST-BTE,242,gradual_drift,True,True,29.41292917573622,True,False,False,False,12.730662864701461
+ST-BTE,243,gradual_drift,True,True,34.86935042389251,True,False,False,False,10.854228004034617
+ST-BTE,244,gradual_drift,True,True,28.996316066924717,False,True,False,False,
+ST-BTE,245,gradual_drift,True,True,34.18312132075573,True,False,False,False,11.301448895753396
+ST-BTE,246,gradual_drift,True,True,9.534243088993051,False,True,False,False,
+ST-BTE,247,gradual_drift,True,True,10.77241745720968,False,True,False,False,
+ST-BTE,248,gradual_drift,True,True,30.145947689162828,False,True,False,False,
+ST-BTE,249,gradual_drift,True,True,31.823983604857403,False,True,False,False,
+ST-BTE,250,gradual_drift,True,True,9.413894406197755,False,True,False,False,
+ST-BTE,251,abrupt_spike,True,True,36.5098198877947,False,True,False,False,
+ST-BTE,252,abrupt_spike,True,True,12.11549158266538,False,True,False,False,
+ST-BTE,253,abrupt_spike,True,True,13.156329859295944,False,True,False,False,
+ST-BTE,254,abrupt_spike,True,True,5.925163025421058,False,True,False,False,
+ST-BTE,255,abrupt_spike,True,True,11.342557968487096,False,True,False,False,
+ST-BTE,256,abrupt_spike,True,True,15.744815358980343,False,True,False,False,
+ST-BTE,257,abrupt_spike,True,True,37.96539728666829,True,False,False,False,-0.3007683735266866
+ST-BTE,258,abrupt_spike,True,True,44.80725218785247,False,True,False,False,
+ST-BTE,259,abrupt_spike,True,True,11.22185092182742,False,True,False,False,
+ST-BTE,260,abrupt_spike,True,True,42.25917742694707,True,False,False,False,-0.8950359229432578
+ST-BTE,261,abrupt_spike,True,True,15.311754950703623,False,True,False,False,
+ST-BTE,262,abrupt_spike,True,True,17.833588442478593,False,True,False,False,
+ST-BTE,263,abrupt_spike,True,True,12.603658109483519,False,True,False,False,
+ST-BTE,264,abrupt_spike,True,True,7.40820123085545,False,True,False,False,
+ST-BTE,265,abrupt_spike,True,True,26.5211771466091,False,True,False,False,
+ST-BTE,266,abrupt_spike,True,True,15.552505925023862,False,True,False,False,
+ST-BTE,267,abrupt_spike,True,True,12.781328442935761,False,True,False,False,
+ST-BTE,268,abrupt_spike,True,True,36.93138018950349,False,True,False,False,
+ST-BTE,269,abrupt_spike,True,True,21.619451439546957,False,True,False,False,
+ST-BTE,270,abrupt_spike,True,True,37.189053379566,True,False,False,False,-1.8971880320215746
+ST-BTE,271,abrupt_spike,True,True,25.511382911376092,False,True,False,False,
+ST-BTE,272,abrupt_spike,True,True,36.84372711235575,True,False,False,False,-1.3605179106837042
+ST-BTE,273,abrupt_spike,True,True,9.930647384834886,False,True,False,False,
+ST-BTE,274,abrupt_spike,True,True,37.29781863985016,False,True,False,False,
+ST-BTE,275,abrupt_spike,True,True,15.505805900219242,False,True,False,False,
+ST-BTE,276,abrupt_spike,True,True,36.15667881064243,True,False,False,False,-1.186921644421112
+ST-BTE,277,abrupt_spike,True,True,33.336629212132934,True,False,False,False,-0.4633852233047193
+ST-BTE,278,abrupt_spike,True,True,40.651655824030016,True,False,False,False,-1.0501765591656849
+ST-BTE,279,abrupt_spike,True,True,36.37484015377235,False,True,False,False,
+ST-BTE,280,abrupt_spike,True,True,29.437868343567388,False,True,False,False,
+ST-BTE,281,abrupt_spike,True,True,9.468404539531573,False,True,False,False,
+ST-BTE,282,abrupt_spike,True,True,10.398125024232776,False,True,False,False,
+ST-BTE,283,abrupt_spike,True,True,40.35524033252014,True,False,False,False,-0.5624580353226492
+ST-BTE,284,abrupt_spike,True,True,41.89264614261431,True,False,False,False,-0.34953640887518134
+ST-BTE,285,abrupt_spike,True,True,11.243922063629629,False,True,False,False,
+ST-BTE,286,abrupt_spike,True,True,12.47362569851909,False,True,False,False,
+ST-BTE,287,abrupt_spike,True,True,21.9678271673374,False,True,False,False,
+ST-BTE,288,abrupt_spike,True,True,6.189836556170229,False,True,False,False,
+ST-BTE,289,abrupt_spike,True,True,42.947500497736605,True,False,False,False,-1.1422992941685166
+ST-BTE,290,abrupt_spike,True,True,42.93136932360891,True,False,False,False,-1.8068044272423762
+ST-BTE,291,abrupt_spike,True,True,41.48017634139518,True,False,False,False,-1.2251636594246023
+ST-BTE,292,abrupt_spike,True,True,38.732374574984824,False,True,False,False,
+ST-BTE,293,abrupt_spike,True,True,41.31131956192226,True,False,False,False,-0.2444690188734313
+ST-BTE,294,abrupt_spike,True,True,42.38822622957962,False,True,False,False,
+ST-BTE,295,abrupt_spike,True,True,38.83231982487463,False,True,False,False,
+ST-BTE,296,abrupt_spike,True,True,8.376690753206901,False,True,False,False,
+ST-BTE,297,abrupt_spike,True,True,33.7680193477096,True,False,False,False,-0.07849278389754488
+ST-BTE,298,abrupt_spike,True,True,16.71054806203449,False,True,False,False,
+ST-BTE,299,abrupt_spike,True,True,36.36722994406989,True,False,False,False,-0.3652369919535374
+ST-BTE,300,abrupt_spike,True,True,36.56301651777064,True,False,False,False,-1.0697864093819263
+ST-BTE,301,abrupt_spike,True,True,39.57812965441003,True,False,False,False,-1.6929091760307529
+ST-BTE,302,abrupt_spike,True,True,17.209032502175766,False,True,False,False,
+ST-BTE,303,abrupt_spike,True,True,37.8223497633176,False,True,False,False,
+ST-BTE,304,abrupt_spike,True,True,34.611037681191604,True,False,False,False,-1.6993936231636297
+ST-BTE,305,abrupt_spike,True,True,6.888112779821639,False,True,False,False,
+ST-BTE,306,abrupt_spike,True,True,24.939142230713234,False,True,False,False,
+ST-BTE,307,abrupt_spike,True,True,9.218765535109698,False,True,False,False,
+ST-BTE,308,abrupt_spike,True,True,33.79057787367745,False,True,False,False,
+ST-BTE,309,abrupt_spike,True,True,35.57855931135969,False,True,False,False,
+ST-BTE,310,abrupt_spike,True,True,9.10873719225302,False,True,False,False,
+ST-BTE,311,abrupt_spike,True,True,3.994981295433814,False,True,False,False,
+ST-BTE,312,abrupt_spike,True,True,19.702288459635746,False,True,False,False,
+ST-BTE,313,abrupt_spike,True,True,7.936022627610974,False,True,False,False,
+ST-BTE,314,abrupt_spike,True,True,6.7092310977858665,False,True,False,False,
+ST-BTE,315,abrupt_spike,True,True,25.207379193027993,False,True,False,False,
+ST-BTE,316,abrupt_spike,True,True,37.74700292243925,False,True,False,False,
+ST-BTE,317,abrupt_spike,True,True,10.767160386733519,False,True,False,False,
+ST-BTE,318,abrupt_spike,True,True,32.24217818692618,False,True,False,False,
+ST-BTE,319,abrupt_spike,True,True,10.272310274358992,False,True,False,False,
+ST-BTE,320,abrupt_spike,True,True,16.84005881314498,False,True,False,False,
+ST-BTE,321,abrupt_spike,True,True,33.281887464359905,True,False,False,False,-0.6231467847990757
+ST-BTE,322,abrupt_spike,True,True,40.47410233466073,True,False,False,False,-0.5987823326783825
+ST-BTE,323,abrupt_spike,True,True,10.70499160970379,False,True,False,False,
+ST-BTE,324,abrupt_spike,True,True,30.4927022945426,False,True,False,False,
+ST-BTE,325,abrupt_spike,True,True,13.327750652967614,False,True,False,False,
+ST-BTE,326,abrupt_spike,True,True,29.93235822578705,False,True,False,False,
+ST-BTE,327,abrupt_spike,True,True,22.670892824639537,False,True,False,False,
+ST-BTE,328,abrupt_spike,True,True,3.7385071846801408,False,True,False,False,
+ST-BTE,329,abrupt_spike,True,True,10.578837008513101,False,True,False,False,
+ST-BTE,330,abrupt_spike,True,True,36.031757593359266,True,False,False,False,-1.4536620478308961
+ST-BTE,331,abrupt_spike,True,True,32.36204398782614,False,True,False,False,
+ST-BTE,332,abrupt_spike,True,True,41.37809994473288,True,False,False,False,-0.8231272158275971
+ST-BTE,333,abrupt_spike,True,True,35.563431456276774,True,False,False,False,-0.6899828489206499
+ST-BTE,334,abrupt_spike,True,True,33.18249402228888,True,False,False,False,-0.051038509638921425
+ST-BTE,335,abrupt_spike,True,True,13.298503843814407,False,True,False,False,
+ST-BTE,336,abrupt_spike,True,True,15.984752980279215,False,True,False,False,
+ST-BTE,337,abrupt_spike,True,True,18.173474194474107,False,True,False,False,
+ST-BTE,338,abrupt_spike,True,True,38.698871730526406,True,False,False,False,-0.3290908107840096
+ST-BTE,339,abrupt_spike,True,True,38.316351428509286,False,True,False,False,
+ST-BTE,340,abrupt_spike,True,True,40.01887759486987,True,False,False,False,-0.23556430503642645
+ST-BTE,341,abrupt_spike,True,True,35.011451322049574,True,False,False,False,-0.08398499800179593
+ST-BTE,342,abrupt_spike,True,True,3.4387525728273305,False,True,False,False,
+ST-BTE,343,abrupt_spike,True,True,16.684663219907073,False,True,False,False,
+ST-BTE,344,abrupt_spike,True,True,28.747023290400247,False,True,False,False,
+ST-BTE,345,abrupt_spike,True,True,15.272526268179773,False,True,False,False,
+ST-BTE,346,abrupt_spike,True,True,41.97932067774452,True,False,False,False,-0.15754170149671864
+ST-BTE,347,abrupt_spike,True,True,11.651266192227919,False,True,False,False,
+ST-BTE,348,abrupt_spike,True,True,34.85051371721081,False,True,False,False,
+ST-BTE,349,abrupt_spike,True,True,41.92362812999767,True,False,False,False,-0.2758580074525696
+ST-BTE,350,abrupt_spike,True,True,18.179363922481205,False,True,False,False,
+ST-BTE,351,abrupt_spike,True,True,26.02388359893218,False,True,False,False,
+ST-BTE,352,abrupt_spike,True,True,11.153223343685694,False,True,False,False,
+ST-BTE,353,abrupt_spike,True,True,32.49686291880489,False,True,False,False,
+ST-BTE,354,abrupt_spike,True,True,33.06713895409504,True,False,False,False,0.6906831738330581
+ST-BTE,355,abrupt_spike,True,True,39.14173053538247,False,True,False,False,
+ST-BTE,356,abrupt_spike,True,True,6.557415944765273,False,True,False,False,
+ST-BTE,357,abrupt_spike,True,True,17.84170256800042,False,True,False,False,
+ST-BTE,358,abrupt_spike,True,True,17.86477125487497,False,True,False,False,
+ST-BTE,359,abrupt_spike,True,True,43.046962265067904,False,True,False,False,
+ST-BTE,360,abrupt_spike,True,True,36.18479403676833,False,True,False,False,
+ST-BTE,361,abrupt_spike,True,True,37.72826717172906,True,False,False,False,-0.744771262136787
+ST-BTE,362,abrupt_spike,True,True,45.06894795051592,False,True,False,False,
+ST-BTE,363,abrupt_spike,True,True,38.43440097320543,True,False,False,False,-0.04786908329104733
+ST-BTE,364,abrupt_spike,True,True,42.80079881200514,False,True,False,False,
+ST-BTE,365,abrupt_spike,True,True,8.943871547414954,False,True,False,False,
+ST-BTE,366,abrupt_spike,True,True,33.78383406556922,False,True,False,False,
+ST-BTE,367,abrupt_spike,True,True,12.35925599169028,False,True,False,False,
+ST-BTE,368,abrupt_spike,True,True,12.443583492385367,False,True,False,False,
+ST-BTE,369,abrupt_spike,True,True,42.81100541781508,False,True,False,False,
+ST-BTE,370,abrupt_spike,True,True,36.80628934054636,False,True,False,False,
+ST-BTE,371,abrupt_spike,True,True,42.20466209183885,False,True,False,False,
+ST-BTE,372,abrupt_spike,True,True,14.207898389687182,False,True,False,False,
+ST-BTE,373,abrupt_spike,True,True,27.3904922382069,False,True,False,False,
+ST-BTE,374,abrupt_spike,True,True,19.604866833558447,False,True,False,False,
+ST-BTE,375,abrupt_spike,True,True,14.726166866591647,False,True,False,False,
+ST-BTE,376,high_noise,False,False,,False,False,False,True,
+ST-BTE,377,high_noise,False,True,9.397682410131385,False,True,False,False,
+ST-BTE,378,high_noise,False,True,24.9241174608144,False,True,False,False,
+ST-BTE,379,high_noise,False,True,57.94494459638418,False,True,False,False,
+ST-BTE,380,high_noise,False,True,26.435740206395216,False,True,False,False,
+ST-BTE,381,high_noise,False,True,16.723361867602286,False,True,False,False,
+ST-BTE,382,high_noise,False,True,17.836172078227683,False,True,False,False,
+ST-BTE,383,high_noise,False,True,58.248634055136634,False,True,False,False,
+ST-BTE,384,high_noise,False,True,8.958168521162909,False,True,False,False,
+ST-BTE,385,high_noise,False,False,,False,False,False,True,
+ST-BTE,386,high_noise,False,True,17.2564897479052,False,True,False,False,
+ST-BTE,387,high_noise,False,True,40.4708318465486,False,True,False,False,
+ST-BTE,388,high_noise,False,False,,False,False,False,True,
+ST-BTE,389,high_noise,False,True,20.577246463608073,False,True,False,False,
+ST-BTE,390,high_noise,False,True,22.2044309554782,False,True,False,False,
+ST-BTE,391,high_noise,False,False,,False,False,False,True,
+ST-BTE,392,high_noise,False,True,12.481541654903596,False,True,False,False,
+ST-BTE,393,high_noise,False,True,36.49149356098394,False,True,False,False,
+ST-BTE,394,high_noise,False,True,21.27267249809144,False,True,False,False,
+ST-BTE,395,high_noise,False,True,26.248567479633106,False,True,False,False,
+ST-BTE,396,high_noise,False,True,57.2521280122978,False,True,False,False,
+ST-BTE,397,high_noise,False,False,,False,False,False,True,
+ST-BTE,398,high_noise,False,True,21.222121086039632,False,True,False,False,
+ST-BTE,399,high_noise,False,True,31.701045670193963,False,True,False,False,
+ST-BTE,400,high_noise,False,True,31.112956297960913,False,True,False,False,
+ST-BTE,401,high_noise,False,True,25.142157537009588,False,True,False,False,
+ST-BTE,402,high_noise,False,True,44.39462883161165,False,True,False,False,
+ST-BTE,403,high_noise,False,True,7.984260924309256,False,True,False,False,
+ST-BTE,404,high_noise,False,False,,False,False,False,True,
+ST-BTE,405,high_noise,False,True,29.59080951505085,False,True,False,False,
+ST-BTE,406,high_noise,False,False,,False,False,False,True,
+ST-BTE,407,high_noise,False,True,33.86971695197414,False,True,False,False,
+ST-BTE,408,high_noise,False,True,16.22097518691546,False,True,False,False,
+ST-BTE,409,high_noise,False,True,35.77764067476021,False,True,False,False,
+ST-BTE,410,high_noise,False,False,,False,False,False,True,
+ST-BTE,411,high_noise,False,True,13.488190299381387,False,True,False,False,
+ST-BTE,412,high_noise,False,True,26.68169430757021,False,True,False,False,
+ST-BTE,413,high_noise,False,True,19.417568668986878,False,True,False,False,
+ST-BTE,414,high_noise,False,True,22.974715050587047,False,True,False,False,
+ST-BTE,415,high_noise,False,True,17.821954280332733,False,True,False,False,
+ST-BTE,416,high_noise,False,True,21.793879128494076,False,True,False,False,
+ST-BTE,417,high_noise,False,False,,False,False,False,True,
+ST-BTE,418,high_noise,False,True,33.816319332200706,False,True,False,False,
+ST-BTE,419,high_noise,False,True,51.201186716571385,False,True,False,False,
+ST-BTE,420,high_noise,False,True,9.700138181096339,False,True,False,False,
+ST-BTE,421,high_noise,False,True,4.521946910169958,False,True,False,False,
+ST-BTE,422,high_noise,False,False,,False,False,False,True,
+ST-BTE,423,high_noise,False,True,14.64066901607258,False,True,False,False,
+ST-BTE,424,high_noise,False,False,,False,False,False,True,
+ST-BTE,425,high_noise,False,True,8.996437741974542,False,True,False,False,
+ST-BTE,426,high_noise,False,True,16.637381903669365,False,True,False,False,
+ST-BTE,427,high_noise,False,True,19.66732841905293,False,True,False,False,
+ST-BTE,428,high_noise,False,False,,False,False,False,True,
+ST-BTE,429,high_noise,False,True,19.501690517070845,False,True,False,False,
+ST-BTE,430,high_noise,False,False,,False,False,False,True,
+ST-BTE,431,high_noise,False,True,47.01945513716519,False,True,False,False,
+ST-BTE,432,high_noise,False,True,23.902767973205314,False,True,False,False,
+ST-BTE,433,high_noise,False,True,23.78676283638693,False,True,False,False,
+ST-BTE,434,high_noise,False,False,,False,False,False,True,
+ST-BTE,435,high_noise,False,True,41.270290992856204,False,True,False,False,
+ST-BTE,436,high_noise,False,True,3.1709708772064684,False,True,False,False,
+ST-BTE,437,high_noise,False,False,,False,False,False,True,
+ST-BTE,438,high_noise,False,True,12.37161915363476,False,True,False,False,
+ST-BTE,439,high_noise,False,True,16.48407553556784,False,True,False,False,
+ST-BTE,440,high_noise,False,True,30.247458684738625,False,True,False,False,
+ST-BTE,441,high_noise,False,True,8.123015789799,False,True,False,False,
+ST-BTE,442,high_noise,False,False,,False,False,False,True,
+ST-BTE,443,high_noise,False,True,4.065786246839245,False,True,False,False,
+ST-BTE,444,high_noise,False,False,,False,False,False,True,
+ST-BTE,445,high_noise,False,True,10.159105102968963,False,True,False,False,
+ST-BTE,446,high_noise,False,False,,False,False,False,True,
+ST-BTE,447,high_noise,False,True,22.59717481254642,False,True,False,False,
+ST-BTE,448,high_noise,False,False,,False,False,False,True,
+ST-BTE,449,high_noise,False,True,19.689279310589487,False,True,False,False,
+ST-BTE,450,high_noise,False,True,10.697738030591735,False,True,False,False,
+ST-BTE,451,high_noise,False,True,29.296047497426937,False,True,False,False,
+ST-BTE,452,high_noise,False,False,,False,False,False,True,
+ST-BTE,453,high_noise,False,True,46.531616465047314,False,True,False,False,
+ST-BTE,454,high_noise,False,True,38.88200582055626,False,True,False,False,
+ST-BTE,455,high_noise,False,True,25.28752666434648,False,True,False,False,
+ST-BTE,456,high_noise,False,True,30.149460351743432,False,True,False,False,
+ST-BTE,457,high_noise,False,True,12.31379732246569,False,True,False,False,
+ST-BTE,458,high_noise,False,False,,False,False,False,True,
+ST-BTE,459,high_noise,False,True,22.095210046839046,False,True,False,False,
+ST-BTE,460,high_noise,False,False,,False,False,False,True,
+ST-BTE,461,high_noise,False,True,21.18741502595572,False,True,False,False,
+ST-BTE,462,high_noise,False,True,9.535982121148898,False,True,False,False,
+ST-BTE,463,high_noise,False,False,,False,False,False,True,
+ST-BTE,464,high_noise,False,True,12.426497528266697,False,True,False,False,
+ST-BTE,465,high_noise,False,True,34.7304939215447,False,True,False,False,
+ST-BTE,466,high_noise,False,False,,False,False,False,True,
+ST-BTE,467,high_noise,False,True,26.177632834820457,False,True,False,False,
+ST-BTE,468,high_noise,False,True,22.73900270265321,False,True,False,False,
+ST-BTE,469,high_noise,False,True,24.600280703805147,False,True,False,False,
+ST-BTE,470,high_noise,False,False,,False,False,False,True,
+ST-BTE,471,high_noise,False,True,16.15140849370624,False,True,False,False,
+ST-BTE,472,high_noise,False,True,18.948218404869955,False,True,False,False,
+ST-BTE,473,high_noise,False,False,,False,False,False,True,
+ST-BTE,474,high_noise,False,True,17.742738320391478,False,True,False,False,
+ST-BTE,475,high_noise,False,True,49.912054756189704,False,True,False,False,
+ST-BTE,476,high_noise,False,True,38.55712760226684,False,True,False,False,
+ST-BTE,477,high_noise,False,True,13.252205700301168,False,True,False,False,
+ST-BTE,478,high_noise,False,True,31.760340593672606,False,True,False,False,
+ST-BTE,479,high_noise,False,True,6.39977608182542,False,True,False,False,
+ST-BTE,480,high_noise,False,True,30.44199704122895,False,True,False,False,
+ST-BTE,481,high_noise,False,False,,False,False,False,True,
+ST-BTE,482,high_noise,False,True,5.600505058752537,False,True,False,False,
+ST-BTE,483,high_noise,False,True,24.529947520160054,False,True,False,False,
+ST-BTE,484,high_noise,False,True,10.930007691097096,False,True,False,False,
+ST-BTE,485,high_noise,False,True,17.57290336870069,False,True,False,False,
+ST-BTE,486,high_noise,False,True,12.990523176759076,False,True,False,False,
+ST-BTE,487,high_noise,False,True,34.89164053314556,False,True,False,False,
+ST-BTE,488,high_noise,False,True,17.43318617649688,False,True,False,False,
+ST-BTE,489,high_noise,False,True,14.067540267167661,False,True,False,False,
+ST-BTE,490,high_noise,False,True,32.25571008230907,False,True,False,False,
+ST-BTE,491,high_noise,False,True,52.16281544137934,False,True,False,False,
+ST-BTE,492,high_noise,False,True,6.868630004900819,False,True,False,False,
+ST-BTE,493,high_noise,False,False,,False,False,False,True,
+ST-BTE,494,high_noise,False,True,38.705311196225594,False,True,False,False,
+ST-BTE,495,high_noise,False,True,11.367454633631159,False,True,False,False,
+ST-BTE,496,high_noise,False,True,9.349742543320323,False,True,False,False,
+ST-BTE,497,high_noise,False,True,30.674633089885404,False,True,False,False,
+ST-BTE,498,high_noise,False,True,33.3808609100753,False,True,False,False,
+ST-BTE,499,high_noise,False,True,15.41896035559087,False,True,False,False,
+ST-BTE,500,high_noise,False,True,16.861073319212913,False,True,False,False,
+Fixed Population Threshold,1,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,2,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,3,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,4,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,5,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,6,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,7,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,8,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,9,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,10,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,11,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,12,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,13,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,14,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,15,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,16,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,17,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,18,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,19,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,20,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,21,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,22,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,23,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,24,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,25,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,26,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,27,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,28,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,29,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,30,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,31,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,32,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,33,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,34,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,35,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,36,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,37,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,38,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,39,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,40,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,41,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,42,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,43,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,44,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,45,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,46,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,47,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,48,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,49,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,50,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,51,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,52,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,53,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,54,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,55,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,56,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,57,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,58,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,59,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,60,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,61,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,62,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,63,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,64,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,65,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,66,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,67,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,68,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,69,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,70,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,71,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,72,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,73,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,74,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,75,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,76,stable,False,True,15.998212520847519,False,True,False,False,
+Fixed Population Threshold,77,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,78,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,79,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,80,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,81,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,82,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,83,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,84,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,85,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,86,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,87,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,88,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,89,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,90,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,91,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,92,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,93,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,94,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,95,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,96,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,97,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,98,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,99,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,100,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,101,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,102,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,103,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,104,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,105,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,106,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,107,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,108,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,109,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,110,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,111,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,112,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,113,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,114,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,115,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,116,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,117,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,118,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,119,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,120,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,121,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,122,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,123,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,124,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,125,stable,False,False,,False,False,False,True,
+Fixed Population Threshold,126,gradual_drift,True,True,42.2807303019879,True,False,False,False,2.3901824643862284
+Fixed Population Threshold,127,gradual_drift,True,True,51.42331560942146,False,True,False,False,
+Fixed Population Threshold,128,gradual_drift,True,True,54.00220319057721,False,True,False,False,
+Fixed Population Threshold,129,gradual_drift,True,True,42.49859381387211,True,False,False,False,7.314451358926398
+Fixed Population Threshold,130,gradual_drift,True,True,44.139018629434055,True,False,False,False,-0.4153748135900983
+Fixed Population Threshold,131,gradual_drift,True,True,52.28418241077025,False,True,False,False,
+Fixed Population Threshold,132,gradual_drift,True,True,41.81495583947078,True,False,False,False,7.232818173680187
+Fixed Population Threshold,133,gradual_drift,True,True,41.6148711345949,True,False,False,False,2.1946550262180367
+Fixed Population Threshold,134,gradual_drift,True,True,45.60847899541907,True,False,False,False,0.16621583551250296
+Fixed Population Threshold,135,gradual_drift,True,True,45.27281296963007,True,False,False,False,-0.7421716526528641
+Fixed Population Threshold,136,gradual_drift,True,True,46.83596549030573,True,False,False,False,0.5189754500377006
+Fixed Population Threshold,137,gradual_drift,True,True,52.32116035133413,False,True,False,False,
+Fixed Population Threshold,138,gradual_drift,True,True,48.219607324406404,True,False,False,False,0.8791052199653393
+Fixed Population Threshold,139,gradual_drift,True,True,43.31268416624813,True,False,False,False,3.178577069121161
+Fixed Population Threshold,140,gradual_drift,True,True,48.482368371274156,True,False,False,False,-0.3945174773965121
+Fixed Population Threshold,141,gradual_drift,True,True,45.64794646188482,True,False,False,False,1.5435394039710602
+Fixed Population Threshold,142,gradual_drift,True,True,46.44980084594026,True,False,False,False,2.8554771097893124
+Fixed Population Threshold,143,gradual_drift,True,True,43.115968218431696,True,False,False,False,0.931251206978736
+Fixed Population Threshold,144,gradual_drift,True,True,47.47874732593861,True,False,False,False,-1.3873440082448738
+Fixed Population Threshold,145,gradual_drift,True,True,48.86800201065783,False,True,False,False,
+Fixed Population Threshold,146,gradual_drift,True,True,49.93376272371327,True,False,False,False,0.9423425508347663
+Fixed Population Threshold,147,gradual_drift,True,True,40.50275379217086,True,False,False,False,3.9355674015941204
+Fixed Population Threshold,148,gradual_drift,True,True,47.05425646934208,True,False,False,False,0.9562466760123343
+Fixed Population Threshold,149,gradual_drift,True,True,51.150589605803354,True,False,False,False,-1.8608695457975983
+Fixed Population Threshold,150,gradual_drift,True,True,41.23585118140399,True,False,False,False,2.02279022108835
+Fixed Population Threshold,151,gradual_drift,True,True,49.08500971412345,True,False,False,False,-1.4901021654312103
+Fixed Population Threshold,152,gradual_drift,True,True,51.07915785124051,True,False,False,False,0.6860671600924988
+Fixed Population Threshold,153,gradual_drift,True,True,50.48717616733889,True,False,False,False,-0.35192305299317894
+Fixed Population Threshold,154,gradual_drift,True,True,36.409883141662974,True,False,False,False,7.264220376708266
+Fixed Population Threshold,155,gradual_drift,True,True,54.294010228740895,False,True,False,False,
+Fixed Population Threshold,156,gradual_drift,True,True,46.628350533981504,True,False,False,False,1.9932789056039866
+Fixed Population Threshold,157,gradual_drift,True,True,43.28610184195635,True,False,False,False,0.9918384245817009
+Fixed Population Threshold,158,gradual_drift,True,True,57.39638891051926,False,True,False,False,
+Fixed Population Threshold,159,gradual_drift,True,True,40.86554326776145,True,False,False,False,2.6423918985787225
+Fixed Population Threshold,160,gradual_drift,True,True,44.897606055268504,True,False,False,False,-0.07301475914146494
+Fixed Population Threshold,161,gradual_drift,True,True,41.50729255021598,True,False,False,False,2.2133293339556985
+Fixed Population Threshold,162,gradual_drift,True,True,51.073498093217054,True,False,False,False,-1.3542438231721974
+Fixed Population Threshold,163,gradual_drift,True,True,55.646524377590644,False,True,False,False,
+Fixed Population Threshold,164,gradual_drift,True,True,47.828561363516044,True,False,False,False,1.1570581025291133
+Fixed Population Threshold,165,gradual_drift,True,True,48.02438258497072,True,False,False,False,-0.956395116314674
+Fixed Population Threshold,166,gradual_drift,True,True,43.485023935078885,True,False,False,False,1.3037783094984121
+Fixed Population Threshold,167,gradual_drift,True,True,50.699709400371376,False,True,False,False,
+Fixed Population Threshold,168,gradual_drift,True,True,49.60546470853429,False,True,False,False,
+Fixed Population Threshold,169,gradual_drift,True,True,48.546200594639885,True,False,False,False,0.04513373653906427
+Fixed Population Threshold,170,gradual_drift,True,True,48.60566540473676,True,False,False,False,1.9842390312601594
+Fixed Population Threshold,171,gradual_drift,True,True,39.54171572866418,True,False,False,False,2.5590137195098137
+Fixed Population Threshold,172,gradual_drift,True,True,49.25769675052677,True,False,False,False,-0.906768878429709
+Fixed Population Threshold,173,gradual_drift,True,True,51.99823533850551,False,True,False,False,
+Fixed Population Threshold,174,gradual_drift,True,True,38.8005995501856,True,False,False,False,3.2780473487753383
+Fixed Population Threshold,175,gradual_drift,True,True,46.853468621287405,True,False,False,False,1.4351861503374792
+Fixed Population Threshold,176,gradual_drift,True,True,38.78048837260484,True,False,False,False,5.652900407783754
+Fixed Population Threshold,177,gradual_drift,True,True,49.962587982764674,True,False,False,False,0.9233810553282069
+Fixed Population Threshold,178,gradual_drift,True,True,40.45640813269064,True,False,False,False,7.8973583736324215
+Fixed Population Threshold,179,gradual_drift,True,True,53.2146281868376,False,True,False,False,
+Fixed Population Threshold,180,gradual_drift,True,True,45.50608370935101,True,False,False,False,1.9876806325476153
+Fixed Population Threshold,181,gradual_drift,True,True,42.590701657131206,True,False,False,False,2.6561066648680622
+Fixed Population Threshold,182,gradual_drift,True,True,47.52966796934887,True,False,False,False,0.8145683552876832
+Fixed Population Threshold,183,gradual_drift,True,True,41.47635258784386,True,False,False,False,5.829205484004511
+Fixed Population Threshold,184,gradual_drift,True,True,45.3281194214645,True,False,False,False,1.6400545459996394
+Fixed Population Threshold,185,gradual_drift,True,True,47.1773733242882,False,True,False,False,
+Fixed Population Threshold,186,gradual_drift,True,True,55.26922947137048,False,True,False,False,
+Fixed Population Threshold,187,gradual_drift,True,True,45.149574336588955,True,False,False,False,0.4500849349879701
+Fixed Population Threshold,188,gradual_drift,True,True,44.889610755765176,True,False,False,False,-1.7098405446995741
+Fixed Population Threshold,189,gradual_drift,True,True,49.02242045623348,True,False,False,False,-0.912890042918427
+Fixed Population Threshold,190,gradual_drift,True,True,47.67779611665969,True,False,False,False,-1.8220546547005085
+Fixed Population Threshold,191,gradual_drift,True,True,46.82271382822737,True,False,False,False,3.223180908014065
+Fixed Population Threshold,192,gradual_drift,True,True,51.14667750510505,True,False,False,False,0.7924646166254163
+Fixed Population Threshold,193,gradual_drift,True,True,43.91175258959307,True,False,False,False,1.701105826631398
+Fixed Population Threshold,194,gradual_drift,True,True,43.29832003068126,True,False,False,False,1.9637913720097444
+Fixed Population Threshold,195,gradual_drift,True,True,41.406488799427976,True,False,False,False,2.079829198943017
+Fixed Population Threshold,196,gradual_drift,True,True,55.63967982820137,False,True,False,False,
+Fixed Population Threshold,197,gradual_drift,True,False,,False,False,True,False,
+Fixed Population Threshold,198,gradual_drift,True,True,47.82792537918714,True,False,False,False,4.105421575918278
+Fixed Population Threshold,199,gradual_drift,True,True,42.40169642619226,True,False,False,False,1.0128777833495022
+Fixed Population Threshold,200,gradual_drift,True,True,53.898394172480266,False,True,False,False,
+Fixed Population Threshold,201,gradual_drift,True,True,48.149838345483566,True,False,False,False,-0.47696928953613593
+Fixed Population Threshold,202,gradual_drift,True,True,55.25174632238599,False,True,False,False,
+Fixed Population Threshold,203,gradual_drift,True,True,43.01261167749815,True,False,False,False,5.158255285446721
+Fixed Population Threshold,204,gradual_drift,True,True,56.06350805830708,False,True,False,False,
+Fixed Population Threshold,205,gradual_drift,True,True,50.58591178148716,True,False,False,False,0.7945569484670543
+Fixed Population Threshold,206,gradual_drift,True,True,47.673011800243415,True,False,False,False,1.3603738797671738
+Fixed Population Threshold,207,gradual_drift,True,True,41.6175715143355,True,False,False,False,1.4159689469546635
+Fixed Population Threshold,208,gradual_drift,True,True,48.49678816756321,True,False,False,False,-1.833870761931891
+Fixed Population Threshold,209,gradual_drift,True,True,52.55117224121294,True,False,False,False,-1.2915137651065436
+Fixed Population Threshold,210,gradual_drift,True,True,48.70942199522599,True,False,False,False,3.290050579319349
+Fixed Population Threshold,211,gradual_drift,True,True,51.95512028355037,True,False,False,False,-0.9863113293683128
+Fixed Population Threshold,212,gradual_drift,True,True,44.54818639871536,False,True,False,False,
+Fixed Population Threshold,213,gradual_drift,True,True,47.98413935131976,True,False,False,False,-0.14025393442157963
+Fixed Population Threshold,214,gradual_drift,True,True,48.63412651151144,True,False,False,False,0.9452105592229998
+Fixed Population Threshold,215,gradual_drift,True,True,53.99970786540149,False,True,False,False,
+Fixed Population Threshold,216,gradual_drift,True,True,46.12769153556287,False,True,False,False,
+Fixed Population Threshold,217,gradual_drift,True,True,44.18973304031638,True,False,False,False,2.1709922721368784
+Fixed Population Threshold,218,gradual_drift,True,True,47.280016185065925,True,False,False,False,1.259053911832602
+Fixed Population Threshold,219,gradual_drift,True,True,50.044895059583624,False,True,False,False,
+Fixed Population Threshold,220,gradual_drift,True,True,40.515073157898414,True,False,False,False,4.3426206069587465
+Fixed Population Threshold,221,gradual_drift,True,True,45.26959888573944,True,False,False,False,-1.1046372586752256
+Fixed Population Threshold,222,gradual_drift,True,True,46.625968226998495,True,False,False,False,4.6868695134953455
+Fixed Population Threshold,223,gradual_drift,True,True,42.80287995953786,True,False,False,False,-0.4518257172419595
+Fixed Population Threshold,224,gradual_drift,True,True,47.42178310955667,False,True,False,False,
+Fixed Population Threshold,225,gradual_drift,True,True,49.00205539174993,False,True,False,False,
+Fixed Population Threshold,226,gradual_drift,True,True,49.057308135618655,False,True,False,False,
+Fixed Population Threshold,227,gradual_drift,True,True,46.33857212338474,True,False,False,False,-1.1177048654282302
+Fixed Population Threshold,228,gradual_drift,True,True,51.27009102953524,True,False,False,False,-0.19521224226105005
+Fixed Population Threshold,229,gradual_drift,True,True,39.22273241616752,True,False,False,False,3.9575969850565826
+Fixed Population Threshold,230,gradual_drift,True,True,46.1599853086021,True,False,False,False,4.073604127140925
+Fixed Population Threshold,231,gradual_drift,True,True,44.533220119004085,True,False,False,False,5.992972371480178
+Fixed Population Threshold,232,gradual_drift,True,True,43.87253436850317,True,False,False,False,-1.7836963522424583
+Fixed Population Threshold,233,gradual_drift,True,True,43.864766959609064,True,False,False,False,1.3899784990091675
+Fixed Population Threshold,234,gradual_drift,True,True,45.83940568449712,True,False,False,False,0.5831717620312489
+Fixed Population Threshold,235,gradual_drift,True,True,51.21581108671188,False,True,False,False,
+Fixed Population Threshold,236,gradual_drift,True,True,40.307038457557056,True,False,False,False,2.9427497867090864
+Fixed Population Threshold,237,gradual_drift,True,True,52.42879894430585,True,False,False,False,-0.47011028641048824
+Fixed Population Threshold,238,gradual_drift,True,True,50.194720447628086,True,False,False,False,-0.12213629929772907
+Fixed Population Threshold,239,gradual_drift,True,True,49.295548233401576,True,False,False,False,-1.7764540430483038
+Fixed Population Threshold,240,gradual_drift,True,True,48.263109165949665,False,True,False,False,
+Fixed Population Threshold,241,gradual_drift,True,True,50.154634926361,True,False,False,False,-1.9117365578280925
+Fixed Population Threshold,242,gradual_drift,True,True,41.69807509166814,True,False,False,False,0.4455169487695443
+Fixed Population Threshold,243,gradual_drift,True,True,34.86935042389251,True,False,False,False,10.854228004034617
+Fixed Population Threshold,244,gradual_drift,True,True,51.73718129843107,False,True,False,False,
+Fixed Population Threshold,245,gradual_drift,True,True,44.55136170828807,True,False,False,False,0.9332085082210568
+Fixed Population Threshold,246,gradual_drift,True,True,35.76651562793406,True,False,False,False,8.235212896156604
+Fixed Population Threshold,247,gradual_drift,True,True,52.74033523535319,False,True,False,False,
+Fixed Population Threshold,248,gradual_drift,True,True,46.15968364793362,True,False,False,False,2.406536812158194
+Fixed Population Threshold,249,gradual_drift,True,True,51.42864183350851,False,True,False,False,
+Fixed Population Threshold,250,gradual_drift,True,True,38.770969186282386,True,False,False,False,6.562155070879108
+Fixed Population Threshold,251,abrupt_spike,True,True,40.08180235638616,True,False,False,False,-0.04613643846461457
+Fixed Population Threshold,252,abrupt_spike,True,True,33.286473566841686,True,False,False,False,-0.8409281676698726
+Fixed Population Threshold,253,abrupt_spike,True,True,33.778948064108356,True,False,False,False,-0.7858708232551663
+Fixed Population Threshold,254,abrupt_spike,True,True,33.590381501524995,True,False,False,False,-1.0070958800141554
+Fixed Population Threshold,255,abrupt_spike,True,True,38.65701826552072,True,False,False,False,-1.7222229353292988
+Fixed Population Threshold,256,abrupt_spike,True,True,42.038374916883505,True,False,False,False,-1.9166076566488286
+Fixed Population Threshold,257,abrupt_spike,True,True,37.96539728666829,True,False,False,False,-0.3007683735266866
+Fixed Population Threshold,258,abrupt_spike,True,True,44.80725218785247,False,True,False,False,
+Fixed Population Threshold,259,abrupt_spike,True,True,37.22402937167014,True,False,False,False,-0.16223885350810008
+Fixed Population Threshold,260,abrupt_spike,True,True,42.25917742694707,True,False,False,False,-0.8950359229432578
+Fixed Population Threshold,261,abrupt_spike,True,True,47.961773342030575,False,True,False,False,
+Fixed Population Threshold,262,abrupt_spike,True,True,40.60299790166652,True,False,False,False,-0.37403259759900465
+Fixed Population Threshold,263,abrupt_spike,True,True,42.61190841842569,True,False,False,False,-1.7457513892888201
+Fixed Population Threshold,264,abrupt_spike,True,True,39.017956398882134,True,False,False,False,-0.13741287224962662
+Fixed Population Threshold,265,abrupt_spike,True,True,44.54087495119385,False,True,False,False,
+Fixed Population Threshold,266,abrupt_spike,True,True,37.25353764922258,True,False,False,False,-0.14927429617452503
+Fixed Population Threshold,267,abrupt_spike,True,True,36.42159994723763,False,True,False,False,
+Fixed Population Threshold,268,abrupt_spike,True,True,38.68143862938196,False,True,False,False,
+Fixed Population Threshold,269,abrupt_spike,True,True,39.365767071526136,True,False,False,False,-0.23798363559195934
+Fixed Population Threshold,270,abrupt_spike,True,True,37.189053379566,True,False,False,False,-1.8971880320215746
+Fixed Population Threshold,271,abrupt_spike,True,True,38.90829955207829,False,True,False,False,
+Fixed Population Threshold,272,abrupt_spike,True,True,36.84372711235575,True,False,False,False,-1.3605179106837042
+Fixed Population Threshold,273,abrupt_spike,True,True,41.33774409589073,False,True,False,False,
+Fixed Population Threshold,274,abrupt_spike,True,True,37.29781863985016,False,True,False,False,
+Fixed Population Threshold,275,abrupt_spike,True,True,36.45123269769151,True,False,False,False,-1.9738066586157288
+Fixed Population Threshold,276,abrupt_spike,True,True,36.15667881064243,True,False,False,False,-1.186921644421112
+Fixed Population Threshold,277,abrupt_spike,True,True,33.336629212132934,True,False,False,False,-0.4633852233047193
+Fixed Population Threshold,278,abrupt_spike,True,True,40.651655824030016,True,False,False,False,-1.0501765591656849
+Fixed Population Threshold,279,abrupt_spike,True,True,38.95723327970352,True,False,False,False,-0.5327852941663238
+Fixed Population Threshold,280,abrupt_spike,True,True,48.37751724414046,False,True,False,False,
+Fixed Population Threshold,281,abrupt_spike,True,True,41.26358794501688,True,False,False,False,-1.9715521332606727
+Fixed Population Threshold,282,abrupt_spike,True,True,39.50391504291944,False,True,False,False,
+Fixed Population Threshold,283,abrupt_spike,True,True,40.35524033252014,True,False,False,False,-0.5624580353226492
+Fixed Population Threshold,284,abrupt_spike,True,True,41.89264614261431,True,False,False,False,-0.34953640887518134
+Fixed Population Threshold,285,abrupt_spike,True,True,43.01708124755014,False,True,False,False,
+Fixed Population Threshold,286,abrupt_spike,True,True,38.47259604442547,True,False,False,False,-0.5697010116418255
+Fixed Population Threshold,287,abrupt_spike,True,True,40.83927010655944,True,False,False,False,-1.1998928245885594
+Fixed Population Threshold,288,abrupt_spike,True,True,34.251026777561215,False,True,False,False,
+Fixed Population Threshold,289,abrupt_spike,True,True,42.947500497736605,True,False,False,False,-1.1422992941685166
+Fixed Population Threshold,290,abrupt_spike,True,True,42.93136932360891,True,False,False,False,-1.8068044272423762
+Fixed Population Threshold,291,abrupt_spike,True,True,41.48017634139518,True,False,False,False,-1.2251636594246023
+Fixed Population Threshold,292,abrupt_spike,True,True,38.732374574984824,False,True,False,False,
+Fixed Population Threshold,293,abrupt_spike,True,True,41.31131956192226,True,False,False,False,-0.2444690188734313
+Fixed Population Threshold,294,abrupt_spike,True,True,42.38822622957962,False,True,False,False,
+Fixed Population Threshold,295,abrupt_spike,True,True,43.88498800796335,False,True,False,False,
+Fixed Population Threshold,296,abrupt_spike,True,True,42.44586405937915,False,True,False,False,
+Fixed Population Threshold,297,abrupt_spike,True,True,33.7680193477096,True,False,False,False,-0.07849278389754488
+Fixed Population Threshold,298,abrupt_spike,True,True,39.32720696533163,True,False,False,False,-1.7098079104864965
+Fixed Population Threshold,299,abrupt_spike,True,True,36.36722994406989,True,False,False,False,-0.3652369919535374
+Fixed Population Threshold,300,abrupt_spike,True,True,36.56301651777064,True,False,False,False,-1.0697864093819263
+Fixed Population Threshold,301,abrupt_spike,True,True,39.57812965441003,True,False,False,False,-1.6929091760307529
+Fixed Population Threshold,302,abrupt_spike,True,True,33.47060032413077,True,False,False,False,-0.6802257601434434
+Fixed Population Threshold,303,abrupt_spike,True,True,42.964212167805,True,False,False,False,-1.219980350115783
+Fixed Population Threshold,304,abrupt_spike,True,True,43.814507358674135,False,True,False,False,
+Fixed Population Threshold,305,abrupt_spike,True,True,38.03111659296429,True,False,False,False,-1.0123408601933548
+Fixed Population Threshold,306,abrupt_spike,True,True,43.01209669958643,False,True,False,False,
+Fixed Population Threshold,307,abrupt_spike,True,True,45.09980322029554,False,True,False,False,
+Fixed Population Threshold,308,abrupt_spike,True,True,37.243285212760156,True,False,False,False,-1.802569215087729
+Fixed Population Threshold,309,abrupt_spike,True,True,41.74953207665112,True,False,False,False,-0.03028706551367577
+Fixed Population Threshold,310,abrupt_spike,True,True,42.532004542995324,True,False,False,False,-1.7825141554099773
+Fixed Population Threshold,311,abrupt_spike,True,True,42.67211442326767,True,False,False,False,-0.7669928144628528
+Fixed Population Threshold,312,abrupt_spike,True,True,42.663525065153976,False,True,False,False,
+Fixed Population Threshold,313,abrupt_spike,True,True,41.24767174510907,True,False,False,False,-1.2056773840975126
+Fixed Population Threshold,314,abrupt_spike,True,True,40.817603510358225,True,False,False,False,-0.3870405045761558
+Fixed Population Threshold,315,abrupt_spike,True,True,42.73708364872119,True,False,False,False,-1.0700772179623712
+Fixed Population Threshold,316,abrupt_spike,True,True,37.74700292243925,False,True,False,False,
+Fixed Population Threshold,317,abrupt_spike,True,True,34.88640103026415,True,False,False,False,-1.4659664441448328
+Fixed Population Threshold,318,abrupt_spike,True,True,38.15970271919291,True,False,False,False,-0.7908053914301405
+Fixed Population Threshold,319,abrupt_spike,True,True,41.09222368947153,False,True,False,False,
+Fixed Population Threshold,320,abrupt_spike,True,True,41.340101819855256,True,False,False,False,-1.2923831613637518
+Fixed Population Threshold,321,abrupt_spike,True,True,33.281887464359905,True,False,False,False,-0.6231467847990757
+Fixed Population Threshold,322,abrupt_spike,True,True,40.47410233466073,True,False,False,False,-0.5987823326783825
+Fixed Population Threshold,323,abrupt_spike,True,True,45.611515238216626,False,True,False,False,
+Fixed Population Threshold,324,abrupt_spike,True,True,38.15883841905897,True,False,False,False,-1.0420054878557892
+Fixed Population Threshold,325,abrupt_spike,True,True,55.1522552125408,False,True,False,False,
+Fixed Population Threshold,326,abrupt_spike,True,True,41.481603605615504,True,False,False,False,-0.07915941641198998
+Fixed Population Threshold,327,abrupt_spike,True,True,41.41918524456471,False,True,False,False,
+Fixed Population Threshold,328,abrupt_spike,True,True,38.65520409782118,False,True,False,False,
+Fixed Population Threshold,329,abrupt_spike,True,True,38.38090555941249,True,False,False,False,-0.5939506376735579
+Fixed Population Threshold,330,abrupt_spike,True,True,36.031757593359266,True,False,False,False,-1.4536620478308961
+Fixed Population Threshold,331,abrupt_spike,True,True,35.36989798740124,True,False,False,False,-1.0717566917043655
+Fixed Population Threshold,332,abrupt_spike,True,True,41.37809994473288,True,False,False,False,-0.8231272158275971
+Fixed Population Threshold,333,abrupt_spike,True,True,42.42300690468531,False,True,False,False,
+Fixed Population Threshold,334,abrupt_spike,True,True,33.18249402228888,True,False,False,False,-0.051038509638921425
+Fixed Population Threshold,335,abrupt_spike,True,True,35.03603738357431,True,False,False,False,-0.6193514119949839
+Fixed Population Threshold,336,abrupt_spike,True,True,34.197304522400096,True,False,False,False,-0.4753833240120571
+Fixed Population Threshold,337,abrupt_spike,True,True,44.10071141288218,False,True,False,False,
+Fixed Population Threshold,338,abrupt_spike,True,True,38.698871730526406,True,False,False,False,-0.3290908107840096
+Fixed Population Threshold,339,abrupt_spike,True,True,38.316351428509286,False,True,False,False,
+Fixed Population Threshold,340,abrupt_spike,True,True,40.01887759486987,True,False,False,False,-0.23556430503642645
+Fixed Population Threshold,341,abrupt_spike,True,True,35.011451322049574,True,False,False,False,-0.08398499800179593
+Fixed Population Threshold,342,abrupt_spike,True,True,37.15619144482453,True,False,False,False,-1.4765572404480025
+Fixed Population Threshold,343,abrupt_spike,True,True,44.44647839098121,False,True,False,False,
+Fixed Population Threshold,344,abrupt_spike,True,True,40.03337630640835,True,False,False,False,-0.24137044988041367
+Fixed Population Threshold,345,abrupt_spike,True,True,38.4683755978302,True,False,False,False,-0.13410789134906054
+Fixed Population Threshold,346,abrupt_spike,True,True,41.97932067774452,True,False,False,False,-0.15754170149671864
+Fixed Population Threshold,347,abrupt_spike,True,True,39.156533647130686,False,True,False,False,
+Fixed Population Threshold,348,abrupt_spike,True,True,40.20888063239008,True,False,False,False,-0.42450454592962217
+Fixed Population Threshold,349,abrupt_spike,True,True,41.92362812999767,True,False,False,False,-0.2758580074525696
+Fixed Population Threshold,350,abrupt_spike,True,True,40.731382044458925,False,True,False,False,
+Fixed Population Threshold,351,abrupt_spike,True,True,41.47232993185315,True,False,False,False,-0.38297946403027794
+Fixed Population Threshold,352,abrupt_spike,True,True,41.2410556245462,False,True,False,False,
+Fixed Population Threshold,353,abrupt_spike,True,True,39.06916588612186,True,False,False,False,-0.860957195634029
+Fixed Population Threshold,354,abrupt_spike,True,True,36.17522052529379,False,True,False,False,
+Fixed Population Threshold,355,abrupt_spike,True,True,42.15433031542677,True,False,False,False,-0.8751376932942634
+Fixed Population Threshold,356,abrupt_spike,True,True,42.3575529655455,False,True,False,False,
+Fixed Population Threshold,357,abrupt_spike,True,True,44.92493533021895,False,True,False,False,
+Fixed Population Threshold,358,abrupt_spike,True,True,39.48423978154035,False,True,False,False,
+Fixed Population Threshold,359,abrupt_spike,True,True,43.046962265067904,False,True,False,False,
+Fixed Population Threshold,360,abrupt_spike,True,True,36.18479403676833,False,True,False,False,
+Fixed Population Threshold,361,abrupt_spike,True,True,37.72826717172906,True,False,False,False,-0.744771262136787
+Fixed Population Threshold,362,abrupt_spike,True,True,45.06894795051592,False,True,False,False,
+Fixed Population Threshold,363,abrupt_spike,True,True,38.43440097320543,True,False,False,False,-0.04786908329104733
+Fixed Population Threshold,364,abrupt_spike,True,True,42.80079881200514,False,True,False,False,
+Fixed Population Threshold,365,abrupt_spike,True,True,43.43274550591809,False,True,False,False,
+Fixed Population Threshold,366,abrupt_spike,True,True,35.90733346945199,True,False,False,False,-0.1390723847162434
+Fixed Population Threshold,367,abrupt_spike,True,True,36.882133108303904,True,False,False,False,-0.12637229179218679
+Fixed Population Threshold,368,abrupt_spike,True,True,38.483658970719524,True,False,False,False,-1.609991225971946
+Fixed Population Threshold,369,abrupt_spike,True,True,42.81100541781508,False,True,False,False,
+Fixed Population Threshold,370,abrupt_spike,True,True,45.71921345390451,False,True,False,False,
+Fixed Population Threshold,371,abrupt_spike,True,True,47.61960485586983,False,True,False,False,
+Fixed Population Threshold,372,abrupt_spike,True,True,40.35005293085919,True,False,False,False,-0.08435236275862223
+Fixed Population Threshold,373,abrupt_spike,True,True,48.013907139936556,False,True,False,False,
+Fixed Population Threshold,374,abrupt_spike,True,True,42.82639418273687,False,True,False,False,
+Fixed Population Threshold,375,abrupt_spike,True,True,37.711246027463595,True,False,False,False,-1.6048437708523267
+Fixed Population Threshold,376,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,377,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,378,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,379,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,380,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,381,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,382,high_noise,False,True,1.8583075413152237,False,True,False,False,
+Fixed Population Threshold,383,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,384,high_noise,False,True,55.95917871795734,False,True,False,False,
+Fixed Population Threshold,385,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,386,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,387,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,388,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,389,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,390,high_noise,False,True,22.2044309554782,False,True,False,False,
+Fixed Population Threshold,391,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,392,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,393,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,394,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,395,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,396,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,397,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,398,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,399,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,400,high_noise,False,True,31.112956297960913,False,True,False,False,
+Fixed Population Threshold,401,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,402,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,403,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,404,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,405,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,406,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,407,high_noise,False,True,33.86971695197414,False,True,False,False,
+Fixed Population Threshold,408,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,409,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,410,high_noise,False,True,2.159182685121623,False,True,False,False,
+Fixed Population Threshold,411,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,412,high_noise,False,True,18.838566664249125,False,True,False,False,
+Fixed Population Threshold,413,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,414,high_noise,False,True,36.08672153691755,False,True,False,False,
+Fixed Population Threshold,415,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,416,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,417,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,418,high_noise,False,True,33.816319332200706,False,True,False,False,
+Fixed Population Threshold,419,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,420,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,421,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,422,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,423,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,424,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,425,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,426,high_noise,False,True,16.637381903669365,False,True,False,False,
+Fixed Population Threshold,427,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,428,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,429,high_noise,False,True,7.959473111468679,False,True,False,False,
+Fixed Population Threshold,430,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,431,high_noise,False,True,4.55781519630488,False,True,False,False,
+Fixed Population Threshold,432,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,433,high_noise,False,True,32.250697743684256,False,True,False,False,
+Fixed Population Threshold,434,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,435,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,436,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,437,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,438,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,439,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,440,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,441,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,442,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,443,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,444,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,445,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,446,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,447,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,448,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,449,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,450,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,451,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,452,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,453,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,454,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,455,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,456,high_noise,False,True,30.149460351743432,False,True,False,False,
+Fixed Population Threshold,457,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,458,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,459,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,460,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,461,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,462,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,463,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,464,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,465,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,466,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,467,high_noise,False,True,26.177632834820457,False,True,False,False,
+Fixed Population Threshold,468,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,469,high_noise,False,True,24.600280703805147,False,True,False,False,
+Fixed Population Threshold,470,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,471,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,472,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,473,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,474,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,475,high_noise,False,True,10.190452750109943,False,True,False,False,
+Fixed Population Threshold,476,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,477,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,478,high_noise,False,True,31.760340593672606,False,True,False,False,
+Fixed Population Threshold,479,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,480,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,481,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,482,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,483,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,484,high_noise,False,True,10.930007691097096,False,True,False,False,
+Fixed Population Threshold,485,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,486,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,487,high_noise,False,True,8.979626332671069,False,True,False,False,
+Fixed Population Threshold,488,high_noise,False,True,17.43318617649688,False,True,False,False,
+Fixed Population Threshold,489,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,490,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,491,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,492,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,493,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,494,high_noise,False,True,38.705311196225594,False,True,False,False,
+Fixed Population Threshold,495,high_noise,False,True,11.367454633631159,False,True,False,False,
+Fixed Population Threshold,496,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,497,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,498,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,499,high_noise,False,False,,False,False,False,True,
+Fixed Population Threshold,500,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),1,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),2,stable,False,True,33.98698936526784,False,True,False,False,
+Rolling Mean/Std (7-pt),3,stable,False,True,29.2261831886133,False,True,False,False,
+Rolling Mean/Std (7-pt),4,stable,False,True,31.093784902414047,False,True,False,False,
+Rolling Mean/Std (7-pt),5,stable,False,True,24.92915101787346,False,True,False,False,
+Rolling Mean/Std (7-pt),6,stable,False,True,31.89789201181293,False,True,False,False,
+Rolling Mean/Std (7-pt),7,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),8,stable,False,True,37.54068698543112,False,True,False,False,
+Rolling Mean/Std (7-pt),9,stable,False,True,21.918125398114746,False,True,False,False,
+Rolling Mean/Std (7-pt),10,stable,False,True,26.159183584710394,False,True,False,False,
+Rolling Mean/Std (7-pt),11,stable,False,True,27.968460459231878,False,True,False,False,
+Rolling Mean/Std (7-pt),12,stable,False,True,58.92711546387236,False,True,False,False,
+Rolling Mean/Std (7-pt),13,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),14,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),15,stable,False,True,40.302004288788055,False,True,False,False,
+Rolling Mean/Std (7-pt),16,stable,False,True,15.12861123079923,False,True,False,False,
+Rolling Mean/Std (7-pt),17,stable,False,True,31.725248638584883,False,True,False,False,
+Rolling Mean/Std (7-pt),18,stable,False,True,28.421470420021894,False,True,False,False,
+Rolling Mean/Std (7-pt),19,stable,False,True,40.75480780413882,False,True,False,False,
+Rolling Mean/Std (7-pt),20,stable,False,True,30.04443664665614,False,True,False,False,
+Rolling Mean/Std (7-pt),21,stable,False,True,48.74024212280018,False,True,False,False,
+Rolling Mean/Std (7-pt),22,stable,False,True,21.924003818058708,False,True,False,False,
+Rolling Mean/Std (7-pt),23,stable,False,True,22.95838167846439,False,True,False,False,
+Rolling Mean/Std (7-pt),24,stable,False,True,36.88545713383924,False,True,False,False,
+Rolling Mean/Std (7-pt),25,stable,False,True,36.508818498449244,False,True,False,False,
+Rolling Mean/Std (7-pt),26,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),27,stable,False,True,32.91390213067894,False,True,False,False,
+Rolling Mean/Std (7-pt),28,stable,False,True,18.185378566302134,False,True,False,False,
+Rolling Mean/Std (7-pt),29,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),30,stable,False,True,34.79337226024318,False,True,False,False,
+Rolling Mean/Std (7-pt),31,stable,False,True,28.615761623243802,False,True,False,False,
+Rolling Mean/Std (7-pt),32,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),33,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),34,stable,False,True,21.860645032663435,False,True,False,False,
+Rolling Mean/Std (7-pt),35,stable,False,True,43.58048805413325,False,True,False,False,
+Rolling Mean/Std (7-pt),36,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),37,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),38,stable,False,True,25.706315959145257,False,True,False,False,
+Rolling Mean/Std (7-pt),39,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),40,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),41,stable,False,True,34.27115879015113,False,True,False,False,
+Rolling Mean/Std (7-pt),42,stable,False,True,15.549467715997084,False,True,False,False,
+Rolling Mean/Std (7-pt),43,stable,False,True,41.127129554567865,False,True,False,False,
+Rolling Mean/Std (7-pt),44,stable,False,True,48.3123768619613,False,True,False,False,
+Rolling Mean/Std (7-pt),45,stable,False,True,57.256049216888904,False,True,False,False,
+Rolling Mean/Std (7-pt),46,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),47,stable,False,True,52.133798832086065,False,True,False,False,
+Rolling Mean/Std (7-pt),48,stable,False,True,20.377443860277292,False,True,False,False,
+Rolling Mean/Std (7-pt),49,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),50,stable,False,True,40.390431369455825,False,True,False,False,
+Rolling Mean/Std (7-pt),51,stable,False,True,13.865751526131314,False,True,False,False,
+Rolling Mean/Std (7-pt),52,stable,False,True,39.6763305700461,False,True,False,False,
+Rolling Mean/Std (7-pt),53,stable,False,True,32.83548016238089,False,True,False,False,
+Rolling Mean/Std (7-pt),54,stable,False,True,27.736887832685294,False,True,False,False,
+Rolling Mean/Std (7-pt),55,stable,False,True,18.504013717714425,False,True,False,False,
+Rolling Mean/Std (7-pt),56,stable,False,True,19.10195946251438,False,True,False,False,
+Rolling Mean/Std (7-pt),57,stable,False,True,38.664771792248956,False,True,False,False,
+Rolling Mean/Std (7-pt),58,stable,False,True,31.934798075852665,False,True,False,False,
+Rolling Mean/Std (7-pt),59,stable,False,True,47.14046166326446,False,True,False,False,
+Rolling Mean/Std (7-pt),60,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),61,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),62,stable,False,True,36.34690337282411,False,True,False,False,
+Rolling Mean/Std (7-pt),63,stable,False,True,44.22630798496519,False,True,False,False,
+Rolling Mean/Std (7-pt),64,stable,False,True,31.993949709289417,False,True,False,False,
+Rolling Mean/Std (7-pt),65,stable,False,True,40.68973754142618,False,True,False,False,
+Rolling Mean/Std (7-pt),66,stable,False,True,34.264499979090004,False,True,False,False,
+Rolling Mean/Std (7-pt),67,stable,False,True,38.8792238456426,False,True,False,False,
+Rolling Mean/Std (7-pt),68,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),69,stable,False,True,22.713334350399105,False,True,False,False,
+Rolling Mean/Std (7-pt),70,stable,False,True,10.173736091819276,False,True,False,False,
+Rolling Mean/Std (7-pt),71,stable,False,True,23.778074006920914,False,True,False,False,
+Rolling Mean/Std (7-pt),72,stable,False,True,16.903739333017192,False,True,False,False,
+Rolling Mean/Std (7-pt),73,stable,False,True,31.08869382654592,False,True,False,False,
+Rolling Mean/Std (7-pt),74,stable,False,True,47.7963979370464,False,True,False,False,
+Rolling Mean/Std (7-pt),75,stable,False,True,28.624503498853503,False,True,False,False,
+Rolling Mean/Std (7-pt),76,stable,False,True,55.51899043488957,False,True,False,False,
+Rolling Mean/Std (7-pt),77,stable,False,True,28.569340180231997,False,True,False,False,
+Rolling Mean/Std (7-pt),78,stable,False,True,49.219003301215636,False,True,False,False,
+Rolling Mean/Std (7-pt),79,stable,False,True,38.96505804418094,False,True,False,False,
+Rolling Mean/Std (7-pt),80,stable,False,True,19.392998388758016,False,True,False,False,
+Rolling Mean/Std (7-pt),81,stable,False,True,29.375285897019424,False,True,False,False,
+Rolling Mean/Std (7-pt),82,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),83,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),84,stable,False,True,38.357037725525146,False,True,False,False,
+Rolling Mean/Std (7-pt),85,stable,False,True,35.42956509644199,False,True,False,False,
+Rolling Mean/Std (7-pt),86,stable,False,True,26.642165084232193,False,True,False,False,
+Rolling Mean/Std (7-pt),87,stable,False,True,15.134411745498157,False,True,False,False,
+Rolling Mean/Std (7-pt),88,stable,False,True,54.3294518935853,False,True,False,False,
+Rolling Mean/Std (7-pt),89,stable,False,True,24.98898213698741,False,True,False,False,
+Rolling Mean/Std (7-pt),90,stable,False,True,49.880734101346874,False,True,False,False,
+Rolling Mean/Std (7-pt),91,stable,False,True,23.32492193766052,False,True,False,False,
+Rolling Mean/Std (7-pt),92,stable,False,True,47.63395914628098,False,True,False,False,
+Rolling Mean/Std (7-pt),93,stable,False,True,24.599385675061512,False,True,False,False,
+Rolling Mean/Std (7-pt),94,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),95,stable,False,True,38.46738869177465,False,True,False,False,
+Rolling Mean/Std (7-pt),96,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),97,stable,False,True,51.982225318557724,False,True,False,False,
+Rolling Mean/Std (7-pt),98,stable,False,True,53.04245271691989,False,True,False,False,
+Rolling Mean/Std (7-pt),99,stable,False,True,31.645304581820877,False,True,False,False,
+Rolling Mean/Std (7-pt),100,stable,False,True,32.92845362694722,False,True,False,False,
+Rolling Mean/Std (7-pt),101,stable,False,True,43.77883735095123,False,True,False,False,
+Rolling Mean/Std (7-pt),102,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),103,stable,False,True,9.025500187829003,False,True,False,False,
+Rolling Mean/Std (7-pt),104,stable,False,True,27.43296238637066,False,True,False,False,
+Rolling Mean/Std (7-pt),105,stable,False,True,48.75094536362151,False,True,False,False,
+Rolling Mean/Std (7-pt),106,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),107,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),108,stable,False,True,27.67702674231844,False,True,False,False,
+Rolling Mean/Std (7-pt),109,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),110,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),111,stable,False,True,18.17309928196668,False,True,False,False,
+Rolling Mean/Std (7-pt),112,stable,False,True,20.791850669972806,False,True,False,False,
+Rolling Mean/Std (7-pt),113,stable,False,True,25.570442873307076,False,True,False,False,
+Rolling Mean/Std (7-pt),114,stable,False,True,16.012425254736797,False,True,False,False,
+Rolling Mean/Std (7-pt),115,stable,False,True,7.634942329273985,False,True,False,False,
+Rolling Mean/Std (7-pt),116,stable,False,True,48.82008773188105,False,True,False,False,
+Rolling Mean/Std (7-pt),117,stable,False,True,22.003106789152,False,True,False,False,
+Rolling Mean/Std (7-pt),118,stable,False,True,39.010585250678474,False,True,False,False,
+Rolling Mean/Std (7-pt),119,stable,False,True,24.65070237846795,False,True,False,False,
+Rolling Mean/Std (7-pt),120,stable,False,True,37.43518970383771,False,True,False,False,
+Rolling Mean/Std (7-pt),121,stable,False,True,42.48799009402679,False,True,False,False,
+Rolling Mean/Std (7-pt),122,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),123,stable,False,True,37.68977788892403,False,True,False,False,
+Rolling Mean/Std (7-pt),124,stable,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),125,stable,False,True,41.16810562727848,False,True,False,False,
+Rolling Mean/Std (7-pt),126,gradual_drift,True,True,32.01905527285441,True,False,False,False,12.65185749351972
+Rolling Mean/Std (7-pt),127,gradual_drift,True,True,36.844528402180856,True,False,False,False,10.52375560984062
+Rolling Mean/Std (7-pt),128,gradual_drift,True,True,39.04232294049766,True,False,False,False,10.607548847514813
+Rolling Mean/Std (7-pt),129,gradual_drift,True,True,12.472658313043835,False,True,False,False,
+Rolling Mean/Std (7-pt),130,gradual_drift,True,True,18.02829596026335,False,True,False,False,
+Rolling Mean/Std (7-pt),131,gradual_drift,True,True,16.54856937976288,False,True,False,False,
+Rolling Mean/Std (7-pt),132,gradual_drift,True,True,39.739547367152184,True,False,False,False,9.30822664599878
+Rolling Mean/Std (7-pt),133,gradual_drift,True,True,38.93605240538349,True,False,False,False,4.873473755429444
+Rolling Mean/Std (7-pt),134,gradual_drift,True,True,27.854890284707118,False,True,False,False,
+Rolling Mean/Std (7-pt),135,gradual_drift,True,True,14.864305044778657,False,True,False,False,
+Rolling Mean/Std (7-pt),136,gradual_drift,True,True,34.7118964900177,True,False,False,False,12.643044450325732
+Rolling Mean/Std (7-pt),137,gradual_drift,True,True,39.04115900804823,True,False,False,False,9.511737144595635
+Rolling Mean/Std (7-pt),138,gradual_drift,True,True,40.31613312969585,True,False,False,False,8.782579414675894
+Rolling Mean/Std (7-pt),139,gradual_drift,True,True,33.74859405456713,True,False,False,False,12.742667180802165
+Rolling Mean/Std (7-pt),140,gradual_drift,True,True,20.67012041023255,False,True,False,False,
+Rolling Mean/Std (7-pt),141,gradual_drift,True,True,37.18700852549652,True,False,False,False,10.004477340359358
+Rolling Mean/Std (7-pt),142,gradual_drift,True,True,22.496053972205225,False,True,False,False,
+Rolling Mean/Std (7-pt),143,gradual_drift,True,True,33.90905934399067,True,False,False,False,10.138160081419763
+Rolling Mean/Std (7-pt),144,gradual_drift,True,True,32.740611014760375,True,False,False,False,13.350792302933364
+Rolling Mean/Std (7-pt),145,gradual_drift,True,True,33.848495946115605,True,False,False,False,12.356101816392162
+Rolling Mean/Std (7-pt),146,gradual_drift,True,True,24.9397813601104,False,True,False,False,
+Rolling Mean/Std (7-pt),147,gradual_drift,True,True,35.726829266432425,True,False,False,False,8.711491927332553
+Rolling Mean/Std (7-pt),148,gradual_drift,True,True,37.41840768333622,True,False,False,False,10.592095462018193
+Rolling Mean/Std (7-pt),149,gradual_drift,True,True,37.952036250760386,True,False,False,False,11.33768380924537
+Rolling Mean/Std (7-pt),150,gradual_drift,True,True,36.27687005375341,True,False,False,False,6.981771348738924
+Rolling Mean/Std (7-pt),151,gradual_drift,True,True,33.90564267703657,True,False,False,False,13.689264871655674
+Rolling Mean/Std (7-pt),152,gradual_drift,True,True,35.372442820536676,False,True,False,False,
+Rolling Mean/Std (7-pt),153,gradual_drift,True,True,24.40416825359239,False,True,False,False,
+Rolling Mean/Std (7-pt),154,gradual_drift,True,True,23.039833565682574,False,True,False,False,
+Rolling Mean/Std (7-pt),155,gradual_drift,True,True,31.992105136764938,False,True,False,False,
+Rolling Mean/Std (7-pt),156,gradual_drift,True,True,24.0998678223166,False,True,False,False,
+Rolling Mean/Std (7-pt),157,gradual_drift,True,True,33.285072027143705,True,False,False,False,10.992868239394348
+Rolling Mean/Std (7-pt),158,gradual_drift,True,True,24.636025211340815,False,True,False,False,
+Rolling Mean/Std (7-pt),159,gradual_drift,True,True,20.349937350567533,False,True,False,False,
+Rolling Mean/Std (7-pt),160,gradual_drift,True,True,29.300780236086865,False,True,False,False,
+Rolling Mean/Std (7-pt),161,gradual_drift,True,True,34.46875376134734,True,False,False,False,9.251868122824341
+Rolling Mean/Std (7-pt),162,gradual_drift,True,True,39.556002803346665,True,False,False,False,10.163251466698192
+Rolling Mean/Std (7-pt),163,gradual_drift,True,True,35.034067020477636,False,True,False,False,
+Rolling Mean/Std (7-pt),164,gradual_drift,True,True,37.60640216147422,True,False,False,False,11.379217304570936
+Rolling Mean/Std (7-pt),165,gradual_drift,True,True,37.27077214521085,True,False,False,False,9.7972153234452
+Rolling Mean/Std (7-pt),166,gradual_drift,True,True,37.71954669919839,True,False,False,False,7.069255545378908
+Rolling Mean/Std (7-pt),167,gradual_drift,True,True,41.631665014287464,True,False,False,False,6.426664530459668
+Rolling Mean/Std (7-pt),168,gradual_drift,True,True,34.4194598964672,True,False,False,False,9.948528922832715
+Rolling Mean/Std (7-pt),169,gradual_drift,True,True,40.928607400102884,True,False,False,False,7.662726931076065
+Rolling Mean/Std (7-pt),170,gradual_drift,True,True,46.596725449428185,True,False,False,False,3.9931789865687364
+Rolling Mean/Std (7-pt),171,gradual_drift,True,True,31.976640637334718,True,False,False,False,10.124088810839275
+Rolling Mean/Std (7-pt),172,gradual_drift,True,True,42.150210545836934,True,False,False,False,6.200717326260126
+Rolling Mean/Std (7-pt),173,gradual_drift,True,True,28.33437631702587,False,True,False,False,
+Rolling Mean/Std (7-pt),174,gradual_drift,True,True,29.823113023728574,True,False,False,False,12.255533875232366
+Rolling Mean/Std (7-pt),175,gradual_drift,True,True,22.755105488601615,False,True,False,False,
+Rolling Mean/Std (7-pt),176,gradual_drift,True,True,33.60462063367733,True,False,False,False,10.828768146711269
+Rolling Mean/Std (7-pt),177,gradual_drift,True,True,17.905400827870803,False,True,False,False,
+Rolling Mean/Std (7-pt),178,gradual_drift,True,True,40.45640813269064,True,False,False,False,7.8973583736324215
+Rolling Mean/Std (7-pt),179,gradual_drift,True,True,28.346113949486618,False,True,False,False,
+Rolling Mean/Std (7-pt),180,gradual_drift,True,True,26.15932566764638,False,True,False,False,
+Rolling Mean/Std (7-pt),181,gradual_drift,True,True,35.48310775606187,True,False,False,False,9.763700565937398
+Rolling Mean/Std (7-pt),182,gradual_drift,True,True,33.99816444954852,True,False,False,False,14.346071875088036
+Rolling Mean/Std (7-pt),183,gradual_drift,True,True,37.93761312268266,True,False,False,False,9.367944949165711
+Rolling Mean/Std (7-pt),184,gradual_drift,True,True,28.248403846517263,False,True,False,False,
+Rolling Mean/Std (7-pt),185,gradual_drift,True,True,34.96375677976611,True,False,False,False,9.94591503353849
+Rolling Mean/Std (7-pt),186,gradual_drift,True,True,43.146741582290296,True,False,False,False,8.584716877630434
+Rolling Mean/Std (7-pt),187,gradual_drift,True,True,45.149574336588955,True,False,False,False,0.4500849349879701
+Rolling Mean/Std (7-pt),188,gradual_drift,True,True,36.81293772773845,True,False,False,False,6.366832483327151
+Rolling Mean/Std (7-pt),189,gradual_drift,True,True,36.33278531761121,True,False,False,False,11.776745095703845
+Rolling Mean/Std (7-pt),190,gradual_drift,True,True,25.04860845411855,False,True,False,False,
+Rolling Mean/Std (7-pt),191,gradual_drift,True,True,19.28210404062033,False,True,False,False,
+Rolling Mean/Std (7-pt),192,gradual_drift,True,True,38.56792691620349,True,False,False,False,13.37121520552698
+Rolling Mean/Std (7-pt),193,gradual_drift,True,True,27.860392649397117,False,True,False,False,
+Rolling Mean/Std (7-pt),194,gradual_drift,True,True,33.531000580900646,True,False,False,False,11.73111082179036
+Rolling Mean/Std (7-pt),195,gradual_drift,True,True,31.0878146479029,True,False,False,False,12.398503350468093
+Rolling Mean/Std (7-pt),196,gradual_drift,True,True,38.75915183670336,True,False,False,False,12.844635438866852
+Rolling Mean/Std (7-pt),197,gradual_drift,True,True,43.592053011720814,True,False,False,False,8.268547466985723
+Rolling Mean/Std (7-pt),198,gradual_drift,True,True,25.816643351550216,False,True,False,False,
+Rolling Mean/Std (7-pt),199,gradual_drift,True,True,28.610934531270352,True,False,False,False,14.80363967827141
+Rolling Mean/Std (7-pt),200,gradual_drift,True,True,42.170339749227225,True,False,False,False,6.391034385185883
+Rolling Mean/Std (7-pt),201,gradual_drift,True,True,36.61711761519479,True,False,False,False,11.055751440752637
+Rolling Mean/Std (7-pt),202,gradual_drift,True,True,38.6419569726449,True,False,False,False,9.466125070615618
+Rolling Mean/Std (7-pt),203,gradual_drift,True,True,28.056075804809645,False,True,False,False,
+Rolling Mean/Std (7-pt),204,gradual_drift,True,True,40.93521900975951,True,False,False,False,8.4801740378646
+Rolling Mean/Std (7-pt),205,gradual_drift,True,True,26.703822868043897,False,True,False,False,
+Rolling Mean/Std (7-pt),206,gradual_drift,True,True,39.674552812452795,True,False,False,False,9.358832867557794
+Rolling Mean/Std (7-pt),207,gradual_drift,True,True,25.933327495685216,False,True,False,False,
+Rolling Mean/Std (7-pt),208,gradual_drift,True,True,31.143376442196562,False,True,False,False,
+Rolling Mean/Std (7-pt),209,gradual_drift,True,True,11.08838073176725,False,True,False,False,
+Rolling Mean/Std (7-pt),210,gradual_drift,True,True,25.220846398680827,False,True,False,False,
+Rolling Mean/Std (7-pt),211,gradual_drift,True,True,39.02175558686834,True,False,False,False,11.947053367313721
+Rolling Mean/Std (7-pt),212,gradual_drift,True,True,32.45453673557948,True,False,False,False,9.571606834572734
+Rolling Mean/Std (7-pt),213,gradual_drift,True,True,27.072697790052022,False,True,False,False,
+Rolling Mean/Std (7-pt),214,gradual_drift,True,True,29.277462052231897,False,True,False,False,
+Rolling Mean/Std (7-pt),215,gradual_drift,True,True,27.904358994043566,False,True,False,False,
+Rolling Mean/Std (7-pt),216,gradual_drift,True,True,31.162643936040666,True,False,False,False,11.515630870599836
+Rolling Mean/Std (7-pt),217,gradual_drift,True,True,18.193774375347786,False,True,False,False,
+Rolling Mean/Std (7-pt),218,gradual_drift,True,True,38.64335753209927,True,False,False,False,9.895712564799254
+Rolling Mean/Std (7-pt),219,gradual_drift,True,True,33.396061946111146,True,False,False,False,8.984428381243973
+Rolling Mean/Std (7-pt),220,gradual_drift,True,True,33.79409793389468,True,False,False,False,11.063595830962477
+Rolling Mean/Std (7-pt),221,gradual_drift,True,True,32.9793418049354,True,False,False,False,11.185619822128814
+Rolling Mean/Std (7-pt),222,gradual_drift,True,True,41.178119819445,True,False,False,False,10.13471792104884
+Rolling Mean/Std (7-pt),223,gradual_drift,True,True,32.99223233294666,True,False,False,False,9.358821909349246
+Rolling Mean/Std (7-pt),224,gradual_drift,True,True,32.204017476125784,True,False,False,False,10.139710528137641
+Rolling Mean/Std (7-pt),225,gradual_drift,True,True,14.230338458540412,False,True,False,False,
+Rolling Mean/Std (7-pt),226,gradual_drift,True,True,37.94775773656697,True,False,False,False,6.035993281655948
+Rolling Mean/Std (7-pt),227,gradual_drift,True,True,33.72904577463949,True,False,False,False,11.491821483317025
+Rolling Mean/Std (7-pt),228,gradual_drift,True,True,41.67387543695311,True,False,False,False,9.401003350321076
+Rolling Mean/Std (7-pt),229,gradual_drift,True,True,26.024889837802444,False,True,False,False,
+Rolling Mean/Std (7-pt),230,gradual_drift,True,True,40.30023977267687,True,False,False,False,9.93334966306616
+Rolling Mean/Std (7-pt),231,gradual_drift,True,True,42.00345459233178,True,False,False,False,8.522737898152485
+Rolling Mean/Std (7-pt),232,gradual_drift,True,True,38.08125200190947,True,False,False,False,4.00758601435124
+Rolling Mean/Std (7-pt),233,gradual_drift,True,True,36.44179099360002,True,False,False,False,8.812954465018208
+Rolling Mean/Std (7-pt),234,gradual_drift,True,True,12.038388526702228,False,True,False,False,
+Rolling Mean/Std (7-pt),235,gradual_drift,True,True,34.44603139872385,True,False,False,False,14.58559633338421
+Rolling Mean/Std (7-pt),236,gradual_drift,True,True,39.202865196544685,True,False,False,False,4.046923047721457
+Rolling Mean/Std (7-pt),237,gradual_drift,True,True,41.2845647399145,True,False,False,False,10.674123917980864
+Rolling Mean/Std (7-pt),238,gradual_drift,True,True,33.10652195159571,False,True,False,False,
+Rolling Mean/Std (7-pt),239,gradual_drift,True,True,33.35292535724767,True,False,False,False,14.166168833105601
+Rolling Mean/Std (7-pt),240,gradual_drift,True,True,35.70611742902084,True,False,False,False,9.500649417498373
+Rolling Mean/Std (7-pt),241,gradual_drift,True,True,38.17181786306729,True,False,False,False,10.071080505465616
+Rolling Mean/Std (7-pt),242,gradual_drift,True,True,32.81696050498561,True,False,False,False,9.326631535452073
+Rolling Mean/Std (7-pt),243,gradual_drift,True,True,34.86935042389251,True,False,False,False,10.854228004034617
+Rolling Mean/Std (7-pt),244,gradual_drift,True,True,28.996316066924717,False,True,False,False,
+Rolling Mean/Std (7-pt),245,gradual_drift,True,True,34.18312132075573,True,False,False,False,11.301448895753396
+Rolling Mean/Std (7-pt),246,gradual_drift,True,True,35.76651562793406,True,False,False,False,8.235212896156604
+Rolling Mean/Std (7-pt),247,gradual_drift,True,True,38.19904096263355,True,False,False,False,5.9802288216967625
+Rolling Mean/Std (7-pt),248,gradual_drift,True,True,30.145947689162828,False,True,False,False,
+Rolling Mean/Std (7-pt),249,gradual_drift,True,True,31.823983604857403,False,True,False,False,
+Rolling Mean/Std (7-pt),250,gradual_drift,True,True,35.70144420114722,True,False,False,False,9.631680056014275
+Rolling Mean/Std (7-pt),251,abrupt_spike,True,True,36.5098198877947,False,True,False,False,
+Rolling Mean/Std (7-pt),252,abrupt_spike,True,True,33.286473566841686,True,False,False,False,-0.8409281676698726
+Rolling Mean/Std (7-pt),253,abrupt_spike,True,True,33.778948064108356,True,False,False,False,-0.7858708232551663
+Rolling Mean/Std (7-pt),254,abrupt_spike,True,True,33.590381501524995,True,False,False,False,-1.0070958800141554
+Rolling Mean/Std (7-pt),255,abrupt_spike,True,True,27.500914405620517,False,True,False,False,
+Rolling Mean/Std (7-pt),256,abrupt_spike,True,True,42.038374916883505,True,False,False,False,-1.9166076566488286
+Rolling Mean/Std (7-pt),257,abrupt_spike,True,True,22.27254115843153,False,True,False,False,
+Rolling Mean/Std (7-pt),258,abrupt_spike,True,True,44.80725218785247,False,True,False,False,
+Rolling Mean/Std (7-pt),259,abrupt_spike,True,True,37.22402937167014,True,False,False,False,-0.16223885350810008
+Rolling Mean/Std (7-pt),260,abrupt_spike,True,True,42.25917742694707,True,False,False,False,-0.8950359229432578
+Rolling Mean/Std (7-pt),261,abrupt_spike,True,True,15.311754950703623,False,True,False,False,
+Rolling Mean/Std (7-pt),262,abrupt_spike,True,True,40.60299790166652,True,False,False,False,-0.37403259759900465
+Rolling Mean/Std (7-pt),263,abrupt_spike,True,True,42.61190841842569,True,False,False,False,-1.7457513892888201
+Rolling Mean/Std (7-pt),264,abrupt_spike,True,True,39.017956398882134,True,False,False,False,-0.13741287224962662
+Rolling Mean/Std (7-pt),265,abrupt_spike,True,True,26.5211771466091,False,True,False,False,
+Rolling Mean/Std (7-pt),266,abrupt_spike,True,True,37.25353764922258,True,False,False,False,-0.14927429617452503
+Rolling Mean/Std (7-pt),267,abrupt_spike,True,True,18.680187805272567,False,True,False,False,
+Rolling Mean/Std (7-pt),268,abrupt_spike,True,True,36.93138018950349,False,True,False,False,
+Rolling Mean/Std (7-pt),269,abrupt_spike,True,True,39.365767071526136,True,False,False,False,-0.23798363559195934
+Rolling Mean/Std (7-pt),270,abrupt_spike,True,True,37.189053379566,True,False,False,False,-1.8971880320215746
+Rolling Mean/Std (7-pt),271,abrupt_spike,True,True,25.511382911376092,False,True,False,False,
+Rolling Mean/Std (7-pt),272,abrupt_spike,True,True,36.84372711235575,True,False,False,False,-1.3605179106837042
+Rolling Mean/Std (7-pt),273,abrupt_spike,True,True,41.33774409589073,False,True,False,False,
+Rolling Mean/Std (7-pt),274,abrupt_spike,True,True,37.29781863985016,False,True,False,False,
+Rolling Mean/Std (7-pt),275,abrupt_spike,True,True,31.774781538595313,False,True,False,False,
+Rolling Mean/Std (7-pt),276,abrupt_spike,True,True,36.15667881064243,True,False,False,False,-1.186921644421112
+Rolling Mean/Std (7-pt),277,abrupt_spike,True,True,33.336629212132934,True,False,False,False,-0.4633852233047193
+Rolling Mean/Std (7-pt),278,abrupt_spike,True,True,40.651655824030016,True,False,False,False,-1.0501765591656849
+Rolling Mean/Std (7-pt),279,abrupt_spike,True,True,36.37484015377235,False,True,False,False,
+Rolling Mean/Std (7-pt),280,abrupt_spike,True,True,29.437868343567388,False,True,False,False,
+Rolling Mean/Std (7-pt),281,abrupt_spike,True,True,41.26358794501688,True,False,False,False,-1.9715521332606727
+Rolling Mean/Std (7-pt),282,abrupt_spike,True,True,28.96321809087694,False,True,False,False,
+Rolling Mean/Std (7-pt),283,abrupt_spike,True,True,40.35524033252014,True,False,False,False,-0.5624580353226492
+Rolling Mean/Std (7-pt),284,abrupt_spike,True,True,41.89264614261431,True,False,False,False,-0.34953640887518134
+Rolling Mean/Std (7-pt),285,abrupt_spike,True,True,34.812373775434786,False,True,False,False,
+Rolling Mean/Std (7-pt),286,abrupt_spike,True,True,38.47259604442547,True,False,False,False,-0.5697010116418255
+Rolling Mean/Std (7-pt),287,abrupt_spike,True,True,26.292509317711026,False,True,False,False,
+Rolling Mean/Std (7-pt),288,abrupt_spike,True,True,34.251026777561215,False,True,False,False,
+Rolling Mean/Std (7-pt),289,abrupt_spike,True,True,42.947500497736605,True,False,False,False,-1.1422992941685166
+Rolling Mean/Std (7-pt),290,abrupt_spike,True,True,27.959972882950648,False,True,False,False,
+Rolling Mean/Std (7-pt),291,abrupt_spike,True,True,41.48017634139518,True,False,False,False,-1.2251636594246023
+Rolling Mean/Std (7-pt),292,abrupt_spike,True,True,38.732374574984824,False,True,False,False,
+Rolling Mean/Std (7-pt),293,abrupt_spike,True,True,41.31131956192226,True,False,False,False,-0.2444690188734313
+Rolling Mean/Std (7-pt),294,abrupt_spike,True,True,42.38822622957962,False,True,False,False,
+Rolling Mean/Std (7-pt),295,abrupt_spike,True,True,43.88498800796335,False,True,False,False,
+Rolling Mean/Std (7-pt),296,abrupt_spike,True,True,13.74136060839426,False,True,False,False,
+Rolling Mean/Std (7-pt),297,abrupt_spike,True,True,33.7680193477096,True,False,False,False,-0.07849278389754488
+Rolling Mean/Std (7-pt),298,abrupt_spike,True,True,21.22086567843101,False,True,False,False,
+Rolling Mean/Std (7-pt),299,abrupt_spike,True,True,36.36722994406989,True,False,False,False,-0.3652369919535374
+Rolling Mean/Std (7-pt),300,abrupt_spike,True,True,36.56301651777064,True,False,False,False,-1.0697864093819263
+Rolling Mean/Std (7-pt),301,abrupt_spike,True,True,39.57812965441003,True,False,False,False,-1.6929091760307529
+Rolling Mean/Std (7-pt),302,abrupt_spike,True,True,29.36342864784493,False,True,False,False,
+Rolling Mean/Std (7-pt),303,abrupt_spike,True,True,37.8223497633176,False,True,False,False,
+Rolling Mean/Std (7-pt),304,abrupt_spike,True,True,34.611037681191604,True,False,False,False,-1.6993936231636297
+Rolling Mean/Std (7-pt),305,abrupt_spike,True,True,28.30778324406785,False,True,False,False,
+Rolling Mean/Std (7-pt),306,abrupt_spike,True,True,43.01209669958643,False,True,False,False,
+Rolling Mean/Std (7-pt),307,abrupt_spike,True,True,45.09980322029554,False,True,False,False,
+Rolling Mean/Std (7-pt),308,abrupt_spike,True,True,33.79057787367745,False,True,False,False,
+Rolling Mean/Std (7-pt),309,abrupt_spike,True,True,35.57855931135969,False,True,False,False,
+Rolling Mean/Std (7-pt),310,abrupt_spike,True,True,42.532004542995324,True,False,False,False,-1.7825141554099773
+Rolling Mean/Std (7-pt),311,abrupt_spike,True,True,27.843902616662525,False,True,False,False,
+Rolling Mean/Std (7-pt),312,abrupt_spike,True,True,19.702288459635746,False,True,False,False,
+Rolling Mean/Std (7-pt),313,abrupt_spike,True,True,41.24767174510907,True,False,False,False,-1.2056773840975126
+Rolling Mean/Std (7-pt),314,abrupt_spike,True,True,40.817603510358225,True,False,False,False,-0.3870405045761558
+Rolling Mean/Std (7-pt),315,abrupt_spike,True,True,25.207379193027993,False,True,False,False,
+Rolling Mean/Std (7-pt),316,abrupt_spike,True,True,37.74700292243925,False,True,False,False,
+Rolling Mean/Std (7-pt),317,abrupt_spike,True,True,10.767160386733519,False,True,False,False,
+Rolling Mean/Std (7-pt),318,abrupt_spike,True,True,32.24217818692618,False,True,False,False,
+Rolling Mean/Std (7-pt),319,abrupt_spike,True,True,39.420991278872116,True,False,False,False,-1.9725876667975228
+Rolling Mean/Std (7-pt),320,abrupt_spike,True,True,35.40348725243858,False,True,False,False,
+Rolling Mean/Std (7-pt),321,abrupt_spike,True,True,33.281887464359905,True,False,False,False,-0.6231467847990757
+Rolling Mean/Std (7-pt),322,abrupt_spike,True,True,40.47410233466073,True,False,False,False,-0.5987823326783825
+Rolling Mean/Std (7-pt),323,abrupt_spike,True,True,10.70499160970379,False,True,False,False,
+Rolling Mean/Std (7-pt),324,abrupt_spike,True,True,30.4927022945426,False,True,False,False,
+Rolling Mean/Std (7-pt),325,abrupt_spike,True,True,13.327750652967614,False,True,False,False,
+Rolling Mean/Std (7-pt),326,abrupt_spike,True,True,29.93235822578705,False,True,False,False,
+Rolling Mean/Std (7-pt),327,abrupt_spike,True,True,22.670892824639537,False,True,False,False,
+Rolling Mean/Std (7-pt),328,abrupt_spike,True,True,38.65520409782118,False,True,False,False,
+Rolling Mean/Std (7-pt),329,abrupt_spike,True,True,38.38090555941249,True,False,False,False,-0.5939506376735579
+Rolling Mean/Std (7-pt),330,abrupt_spike,True,True,36.031757593359266,True,False,False,False,-1.4536620478308961
+Rolling Mean/Std (7-pt),331,abrupt_spike,True,True,35.36989798740124,True,False,False,False,-1.0717566917043655
+Rolling Mean/Std (7-pt),332,abrupt_spike,True,True,41.37809994473288,True,False,False,False,-0.8231272158275971
+Rolling Mean/Std (7-pt),333,abrupt_spike,True,True,35.563431456276774,True,False,False,False,-0.6899828489206499
+Rolling Mean/Std (7-pt),334,abrupt_spike,True,True,33.18249402228888,True,False,False,False,-0.051038509638921425
+Rolling Mean/Std (7-pt),335,abrupt_spike,True,True,35.03603738357431,True,False,False,False,-0.6193514119949839
+Rolling Mean/Std (7-pt),336,abrupt_spike,True,True,19.469488395022594,False,True,False,False,
+Rolling Mean/Std (7-pt),337,abrupt_spike,True,True,18.173474194474107,False,True,False,False,
+Rolling Mean/Std (7-pt),338,abrupt_spike,True,True,37.82235315502945,True,False,False,False,0.5474277647129497
+Rolling Mean/Std (7-pt),339,abrupt_spike,True,True,31.581741494831764,False,True,False,False,
+Rolling Mean/Std (7-pt),340,abrupt_spike,True,True,40.01887759486987,True,False,False,False,-0.23556430503642645
+Rolling Mean/Std (7-pt),341,abrupt_spike,True,True,35.011451322049574,True,False,False,False,-0.08398499800179593
+Rolling Mean/Std (7-pt),342,abrupt_spike,True,True,37.15619144482453,True,False,False,False,-1.4765572404480025
+Rolling Mean/Std (7-pt),343,abrupt_spike,True,True,16.684663219907073,False,True,False,False,
+Rolling Mean/Std (7-pt),344,abrupt_spike,True,True,28.747023290400247,False,True,False,False,
+Rolling Mean/Std (7-pt),345,abrupt_spike,True,True,38.4683755978302,True,False,False,False,-0.13410789134906054
+Rolling Mean/Std (7-pt),346,abrupt_spike,True,True,41.97932067774452,True,False,False,False,-0.15754170149671864
+Rolling Mean/Std (7-pt),347,abrupt_spike,True,True,11.651266192227919,False,True,False,False,
+Rolling Mean/Std (7-pt),348,abrupt_spike,True,True,40.20888063239008,True,False,False,False,-0.42450454592962217
+Rolling Mean/Std (7-pt),349,abrupt_spike,True,True,41.92362812999767,True,False,False,False,-0.2758580074525696
+Rolling Mean/Std (7-pt),350,abrupt_spike,True,True,40.731382044458925,False,True,False,False,
+Rolling Mean/Std (7-pt),351,abrupt_spike,True,True,26.02388359893218,False,True,False,False,
+Rolling Mean/Std (7-pt),352,abrupt_spike,True,True,41.2410556245462,False,True,False,False,
+Rolling Mean/Std (7-pt),353,abrupt_spike,True,True,39.06916588612186,True,False,False,False,-0.860957195634029
+Rolling Mean/Std (7-pt),354,abrupt_spike,True,True,33.06713895409504,True,False,False,False,0.6906831738330581
+Rolling Mean/Std (7-pt),355,abrupt_spike,True,True,35.11428522749822,False,True,False,False,
+Rolling Mean/Std (7-pt),356,abrupt_spike,True,True,35.53867133892552,False,True,False,False,
+Rolling Mean/Std (7-pt),357,abrupt_spike,True,True,17.84170256800042,False,True,False,False,
+Rolling Mean/Std (7-pt),358,abrupt_spike,True,True,39.48423978154035,False,True,False,False,
+Rolling Mean/Std (7-pt),359,abrupt_spike,True,True,43.046962265067904,False,True,False,False,
+Rolling Mean/Std (7-pt),360,abrupt_spike,True,True,19.616108719914052,False,True,False,False,
+Rolling Mean/Std (7-pt),361,abrupt_spike,True,True,37.72826717172906,True,False,False,False,-0.744771262136787
+Rolling Mean/Std (7-pt),362,abrupt_spike,True,True,15.904788726319634,False,True,False,False,
+Rolling Mean/Std (7-pt),363,abrupt_spike,True,True,38.43440097320543,True,False,False,False,-0.04786908329104733
+Rolling Mean/Std (7-pt),364,abrupt_spike,True,True,42.80079881200514,False,True,False,False,
+Rolling Mean/Std (7-pt),365,abrupt_spike,True,True,43.43274550591809,False,True,False,False,
+Rolling Mean/Std (7-pt),366,abrupt_spike,True,True,33.78383406556922,False,True,False,False,
+Rolling Mean/Std (7-pt),367,abrupt_spike,True,True,12.35925599169028,False,True,False,False,
+Rolling Mean/Std (7-pt),368,abrupt_spike,True,True,32.31996033100388,False,True,False,False,
+Rolling Mean/Std (7-pt),369,abrupt_spike,True,True,42.81100541781508,False,True,False,False,
+Rolling Mean/Std (7-pt),370,abrupt_spike,True,True,36.80628934054636,False,True,False,False,
+Rolling Mean/Std (7-pt),371,abrupt_spike,True,True,42.20466209183885,False,True,False,False,
+Rolling Mean/Std (7-pt),372,abrupt_spike,True,True,32.943450774035874,False,True,False,False,
+Rolling Mean/Std (7-pt),373,abrupt_spike,True,True,29.467634001231595,False,True,False,False,
+Rolling Mean/Std (7-pt),374,abrupt_spike,True,True,19.604866833558447,False,True,False,False,
+Rolling Mean/Std (7-pt),375,abrupt_spike,True,True,18.71708927823565,False,True,False,False,
+Rolling Mean/Std (7-pt),376,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),377,high_noise,False,True,25.531455817714424,False,True,False,False,
+Rolling Mean/Std (7-pt),378,high_noise,False,True,23.401505364505795,False,True,False,False,
+Rolling Mean/Std (7-pt),379,high_noise,False,True,45.97567487197766,False,True,False,False,
+Rolling Mean/Std (7-pt),380,high_noise,False,True,26.435740206395216,False,True,False,False,
+Rolling Mean/Std (7-pt),381,high_noise,False,True,39.61530378392372,False,True,False,False,
+Rolling Mean/Std (7-pt),382,high_noise,False,True,17.836172078227683,False,True,False,False,
+Rolling Mean/Std (7-pt),383,high_noise,False,True,44.83137269528308,False,True,False,False,
+Rolling Mean/Std (7-pt),384,high_noise,False,True,44.80634799811029,False,True,False,False,
+Rolling Mean/Std (7-pt),385,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),386,high_noise,False,True,25.573493123841047,False,True,False,False,
+Rolling Mean/Std (7-pt),387,high_noise,False,True,40.4708318465486,False,True,False,False,
+Rolling Mean/Std (7-pt),388,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),389,high_noise,False,True,33.371083947433306,False,True,False,False,
+Rolling Mean/Std (7-pt),390,high_noise,False,True,22.2044309554782,False,True,False,False,
+Rolling Mean/Std (7-pt),391,high_noise,False,True,37.569666417644996,False,True,False,False,
+Rolling Mean/Std (7-pt),392,high_noise,False,True,42.82375415922055,False,True,False,False,
+Rolling Mean/Std (7-pt),393,high_noise,False,True,36.49149356098394,False,True,False,False,
+Rolling Mean/Std (7-pt),394,high_noise,False,True,21.27267249809144,False,True,False,False,
+Rolling Mean/Std (7-pt),395,high_noise,False,True,26.248567479633106,False,True,False,False,
+Rolling Mean/Std (7-pt),396,high_noise,False,True,57.2521280122978,False,True,False,False,
+Rolling Mean/Std (7-pt),397,high_noise,False,True,30.651935112120007,False,True,False,False,
+Rolling Mean/Std (7-pt),398,high_noise,False,True,21.222121086039632,False,True,False,False,
+Rolling Mean/Std (7-pt),399,high_noise,False,True,17.83377953669961,False,True,False,False,
+Rolling Mean/Std (7-pt),400,high_noise,False,True,31.112956297960913,False,True,False,False,
+Rolling Mean/Std (7-pt),401,high_noise,False,True,24.357669611688085,False,True,False,False,
+Rolling Mean/Std (7-pt),402,high_noise,False,True,44.39462883161165,False,True,False,False,
+Rolling Mean/Std (7-pt),403,high_noise,False,True,53.05304437595531,False,True,False,False,
+Rolling Mean/Std (7-pt),404,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),405,high_noise,False,True,29.59080951505085,False,True,False,False,
+Rolling Mean/Std (7-pt),406,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),407,high_noise,False,True,33.86971695197414,False,True,False,False,
+Rolling Mean/Std (7-pt),408,high_noise,False,True,47.53029715045541,False,True,False,False,
+Rolling Mean/Std (7-pt),409,high_noise,False,True,35.77764067476021,False,True,False,False,
+Rolling Mean/Std (7-pt),410,high_noise,False,True,25.693339713612012,False,True,False,False,
+Rolling Mean/Std (7-pt),411,high_noise,False,True,20.91454268942058,False,True,False,False,
+Rolling Mean/Std (7-pt),412,high_noise,False,True,26.68169430757021,False,True,False,False,
+Rolling Mean/Std (7-pt),413,high_noise,False,True,18.92788969093106,False,True,False,False,
+Rolling Mean/Std (7-pt),414,high_noise,False,True,22.974715050587047,False,True,False,False,
+Rolling Mean/Std (7-pt),415,high_noise,False,True,55.911400813640746,False,True,False,False,
+Rolling Mean/Std (7-pt),416,high_noise,False,True,21.793879128494076,False,True,False,False,
+Rolling Mean/Std (7-pt),417,high_noise,False,True,44.853418479066605,False,True,False,False,
+Rolling Mean/Std (7-pt),418,high_noise,False,True,33.816319332200706,False,True,False,False,
+Rolling Mean/Std (7-pt),419,high_noise,False,True,51.201186716571385,False,True,False,False,
+Rolling Mean/Std (7-pt),420,high_noise,False,True,14.938005348332446,False,True,False,False,
+Rolling Mean/Std (7-pt),421,high_noise,False,True,18.61234213062501,False,True,False,False,
+Rolling Mean/Std (7-pt),422,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),423,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),424,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),425,high_noise,False,True,30.393985130221264,False,True,False,False,
+Rolling Mean/Std (7-pt),426,high_noise,False,True,16.637381903669365,False,True,False,False,
+Rolling Mean/Std (7-pt),427,high_noise,False,True,19.66732841905293,False,True,False,False,
+Rolling Mean/Std (7-pt),428,high_noise,False,True,57.239495014606,False,True,False,False,
+Rolling Mean/Std (7-pt),429,high_noise,False,True,19.501690517070845,False,True,False,False,
+Rolling Mean/Std (7-pt),430,high_noise,False,True,42.934373133405856,False,True,False,False,
+Rolling Mean/Std (7-pt),431,high_noise,False,True,38.89075858153289,False,True,False,False,
+Rolling Mean/Std (7-pt),432,high_noise,False,True,33.34183738775941,False,True,False,False,
+Rolling Mean/Std (7-pt),433,high_noise,False,True,23.78676283638693,False,True,False,False,
+Rolling Mean/Std (7-pt),434,high_noise,False,True,27.92258469805115,False,True,False,False,
+Rolling Mean/Std (7-pt),435,high_noise,False,True,41.270290992856204,False,True,False,False,
+Rolling Mean/Std (7-pt),436,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),437,high_noise,False,True,57.83727554099463,False,True,False,False,
+Rolling Mean/Std (7-pt),438,high_noise,False,True,49.66426882992896,False,True,False,False,
+Rolling Mean/Std (7-pt),439,high_noise,False,True,45.283130262672145,False,True,False,False,
+Rolling Mean/Std (7-pt),440,high_noise,False,True,18.85453555067915,False,True,False,False,
+Rolling Mean/Std (7-pt),441,high_noise,False,True,12.60145929751257,False,True,False,False,
+Rolling Mean/Std (7-pt),442,high_noise,False,True,27.610821368424176,False,True,False,False,
+Rolling Mean/Std (7-pt),443,high_noise,False,True,28.160564984349765,False,True,False,False,
+Rolling Mean/Std (7-pt),444,high_noise,False,True,18.201918783533195,False,True,False,False,
+Rolling Mean/Std (7-pt),445,high_noise,False,True,11.869830867911306,False,True,False,False,
+Rolling Mean/Std (7-pt),446,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),447,high_noise,False,True,22.59717481254642,False,True,False,False,
+Rolling Mean/Std (7-pt),448,high_noise,False,True,43.938047717445606,False,True,False,False,
+Rolling Mean/Std (7-pt),449,high_noise,False,True,34.6833346422107,False,True,False,False,
+Rolling Mean/Std (7-pt),450,high_noise,False,True,21.19689457235026,False,True,False,False,
+Rolling Mean/Std (7-pt),451,high_noise,False,True,29.296047497426937,False,True,False,False,
+Rolling Mean/Std (7-pt),452,high_noise,False,True,57.34437300953489,False,True,False,False,
+Rolling Mean/Std (7-pt),453,high_noise,False,True,30.193745587784537,False,True,False,False,
+Rolling Mean/Std (7-pt),454,high_noise,False,True,38.88200582055626,False,True,False,False,
+Rolling Mean/Std (7-pt),455,high_noise,False,True,25.28752666434648,False,True,False,False,
+Rolling Mean/Std (7-pt),456,high_noise,False,True,30.149460351743432,False,True,False,False,
+Rolling Mean/Std (7-pt),457,high_noise,False,True,23.785082369044662,False,True,False,False,
+Rolling Mean/Std (7-pt),458,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),459,high_noise,False,True,35.34674230355478,False,True,False,False,
+Rolling Mean/Std (7-pt),460,high_noise,False,True,47.1321289321119,False,True,False,False,
+Rolling Mean/Std (7-pt),461,high_noise,False,True,14.564943869825088,False,True,False,False,
+Rolling Mean/Std (7-pt),462,high_noise,False,True,31.13894364216592,False,True,False,False,
+Rolling Mean/Std (7-pt),463,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),464,high_noise,False,True,31.5853613397481,False,True,False,False,
+Rolling Mean/Std (7-pt),465,high_noise,False,True,34.7304939215447,False,True,False,False,
+Rolling Mean/Std (7-pt),466,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),467,high_noise,False,True,26.177632834820457,False,True,False,False,
+Rolling Mean/Std (7-pt),468,high_noise,False,True,29.225843792272077,False,True,False,False,
+Rolling Mean/Std (7-pt),469,high_noise,False,True,20.665451754962728,False,True,False,False,
+Rolling Mean/Std (7-pt),470,high_noise,False,True,21.470955404828313,False,True,False,False,
+Rolling Mean/Std (7-pt),471,high_noise,False,True,27.86051532236477,False,True,False,False,
+Rolling Mean/Std (7-pt),472,high_noise,False,True,49.81873195709765,False,True,False,False,
+Rolling Mean/Std (7-pt),473,high_noise,False,True,52.014806106546,False,True,False,False,
+Rolling Mean/Std (7-pt),474,high_noise,False,True,47.51686870621139,False,True,False,False,
+Rolling Mean/Std (7-pt),475,high_noise,False,True,31.21630419109151,False,True,False,False,
+Rolling Mean/Std (7-pt),476,high_noise,False,True,21.602642469910247,False,True,False,False,
+Rolling Mean/Std (7-pt),477,high_noise,False,True,13.252205700301168,False,True,False,False,
+Rolling Mean/Std (7-pt),478,high_noise,False,True,31.760340593672606,False,True,False,False,
+Rolling Mean/Std (7-pt),479,high_noise,False,True,32.61032967034146,False,True,False,False,
+Rolling Mean/Std (7-pt),480,high_noise,False,True,30.44199704122895,False,True,False,False,
+Rolling Mean/Std (7-pt),481,high_noise,False,True,54.68499679969652,False,True,False,False,
+Rolling Mean/Std (7-pt),482,high_noise,False,True,34.197826742855035,False,True,False,False,
+Rolling Mean/Std (7-pt),483,high_noise,False,True,24.529947520160054,False,True,False,False,
+Rolling Mean/Std (7-pt),484,high_noise,False,False,,False,False,False,True,
+Rolling Mean/Std (7-pt),485,high_noise,False,True,17.57290336870069,False,True,False,False,
+Rolling Mean/Std (7-pt),486,high_noise,False,True,41.14384578125275,False,True,False,False,
+Rolling Mean/Std (7-pt),487,high_noise,False,True,31.699372933154503,False,True,False,False,
+Rolling Mean/Std (7-pt),488,high_noise,False,True,17.43318617649688,False,True,False,False,
+Rolling Mean/Std (7-pt),489,high_noise,False,True,36.716258722249826,False,True,False,False,
+Rolling Mean/Std (7-pt),490,high_noise,False,True,32.25571008230907,False,True,False,False,
+Rolling Mean/Std (7-pt),491,high_noise,False,True,52.16281544137934,False,True,False,False,
+Rolling Mean/Std (7-pt),492,high_noise,False,True,19.537579341377526,False,True,False,False,
+Rolling Mean/Std (7-pt),493,high_noise,False,True,39.11639691746557,False,True,False,False,
+Rolling Mean/Std (7-pt),494,high_noise,False,True,38.705311196225594,False,True,False,False,
+Rolling Mean/Std (7-pt),495,high_noise,False,True,26.66037778235029,False,True,False,False,
+Rolling Mean/Std (7-pt),496,high_noise,False,True,38.89909131093519,False,True,False,False,
+Rolling Mean/Std (7-pt),497,high_noise,False,True,30.674633089885404,False,True,False,False,
+Rolling Mean/Std (7-pt),498,high_noise,False,True,33.3808609100753,False,True,False,False,
+Rolling Mean/Std (7-pt),499,high_noise,False,True,15.41896035559087,False,True,False,False,
+Rolling Mean/Std (7-pt),500,high_noise,False,True,16.861073319212913,False,True,False,False,
+EWMA (alpha=0.2),1,stable,False,True,14.179845863517059,False,True,False,False,
+EWMA (alpha=0.2),2,stable,False,True,33.98698936526784,False,True,False,False,
+EWMA (alpha=0.2),3,stable,False,True,29.2261831886133,False,True,False,False,
+EWMA (alpha=0.2),4,stable,False,True,52.81990510247606,False,True,False,False,
+EWMA (alpha=0.2),5,stable,False,True,24.92915101787346,False,True,False,False,
+EWMA (alpha=0.2),6,stable,False,True,9.106567835329498,False,True,False,False,
+EWMA (alpha=0.2),7,stable,False,True,9.571435607447116,False,True,False,False,
+EWMA (alpha=0.2),8,stable,False,True,8.245573399727299,False,True,False,False,
+EWMA (alpha=0.2),9,stable,False,True,11.03367782111244,False,True,False,False,
+EWMA (alpha=0.2),10,stable,False,True,49.979774650656815,False,True,False,False,
+EWMA (alpha=0.2),11,stable,False,True,21.09658595615683,False,True,False,False,
+EWMA (alpha=0.2),12,stable,False,True,14.63563277907825,False,True,False,False,
+EWMA (alpha=0.2),13,stable,False,True,4.510650147939096,False,True,False,False,
+EWMA (alpha=0.2),14,stable,False,True,9.335682364420979,False,True,False,False,
+EWMA (alpha=0.2),15,stable,False,True,40.302004288788055,False,True,False,False,
+EWMA (alpha=0.2),16,stable,False,True,6.737621296079694,False,True,False,False,
+EWMA (alpha=0.2),17,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),18,stable,False,True,28.421470420021894,False,True,False,False,
+EWMA (alpha=0.2),19,stable,False,True,44.20950849522193,False,True,False,False,
+EWMA (alpha=0.2),20,stable,False,True,30.04443664665614,False,True,False,False,
+EWMA (alpha=0.2),21,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),22,stable,False,True,6.751104294731232,False,True,False,False,
+EWMA (alpha=0.2),23,stable,False,True,3.2354359607592715,False,True,False,False,
+EWMA (alpha=0.2),24,stable,False,True,3.3255105726210035,False,True,False,False,
+EWMA (alpha=0.2),25,stable,False,True,36.508818498449244,False,True,False,False,
+EWMA (alpha=0.2),26,stable,False,True,7.224117044286185,False,True,False,False,
+EWMA (alpha=0.2),27,stable,False,True,8.382019503084276,False,True,False,False,
+EWMA (alpha=0.2),28,stable,False,True,48.0953156876116,False,True,False,False,
+EWMA (alpha=0.2),29,stable,False,True,11.95251238758706,False,True,False,False,
+EWMA (alpha=0.2),30,stable,False,True,34.79337226024318,False,True,False,False,
+EWMA (alpha=0.2),31,stable,False,True,28.615761623243802,False,True,False,False,
+EWMA (alpha=0.2),32,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),33,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),34,stable,False,True,12.761846251331214,False,True,False,False,
+EWMA (alpha=0.2),35,stable,False,True,11.138828401514294,False,True,False,False,
+EWMA (alpha=0.2),36,stable,False,True,2.266220715457073,False,True,False,False,
+EWMA (alpha=0.2),37,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),38,stable,False,True,6.40971250881098,False,True,False,False,
+EWMA (alpha=0.2),39,stable,False,True,10.064896673736554,False,True,False,False,
+EWMA (alpha=0.2),40,stable,False,True,11.910045231038376,False,True,False,False,
+EWMA (alpha=0.2),41,stable,False,True,13.119657234107615,False,True,False,False,
+EWMA (alpha=0.2),42,stable,False,True,15.549467715997084,False,True,False,False,
+EWMA (alpha=0.2),43,stable,False,True,41.127129554567865,False,True,False,False,
+EWMA (alpha=0.2),44,stable,False,True,48.3123768619613,False,True,False,False,
+EWMA (alpha=0.2),45,stable,False,True,1.9559676345771069,False,True,False,False,
+EWMA (alpha=0.2),46,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),47,stable,False,True,52.133798832086065,False,True,False,False,
+EWMA (alpha=0.2),48,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),49,stable,False,True,13.564739415940602,False,True,False,False,
+EWMA (alpha=0.2),50,stable,False,True,13.146782324646876,False,True,False,False,
+EWMA (alpha=0.2),51,stable,False,True,9.49971593758815,False,True,False,False,
+EWMA (alpha=0.2),52,stable,False,True,1.6849271143822675,False,True,False,False,
+EWMA (alpha=0.2),53,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),54,stable,False,True,9.796495109207786,False,True,False,False,
+EWMA (alpha=0.2),55,stable,False,True,18.504013717714425,False,True,False,False,
+EWMA (alpha=0.2),56,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),57,stable,False,True,1.7536142229641822,False,True,False,False,
+EWMA (alpha=0.2),58,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),59,stable,False,True,3.2459108712817786,False,True,False,False,
+EWMA (alpha=0.2),60,stable,False,True,4.99199008834225,False,True,False,False,
+EWMA (alpha=0.2),61,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),62,stable,False,True,7.298019773650079,False,True,False,False,
+EWMA (alpha=0.2),63,stable,False,True,44.22630798496519,False,True,False,False,
+EWMA (alpha=0.2),64,stable,False,True,31.993949709289417,False,True,False,False,
+EWMA (alpha=0.2),65,stable,False,True,3.748285561420719,False,True,False,False,
+EWMA (alpha=0.2),66,stable,False,True,11.959702284741832,False,True,False,False,
+EWMA (alpha=0.2),67,stable,False,True,11.335997675867,False,True,False,False,
+EWMA (alpha=0.2),68,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),69,stable,False,True,12.15421433598998,False,True,False,False,
+EWMA (alpha=0.2),70,stable,False,True,5.166422444549301,False,True,False,False,
+EWMA (alpha=0.2),71,stable,False,True,47.195065600445474,False,True,False,False,
+EWMA (alpha=0.2),72,stable,False,True,11.139498614233483,False,True,False,False,
+EWMA (alpha=0.2),73,stable,False,True,31.08869382654592,False,True,False,False,
+EWMA (alpha=0.2),74,stable,False,True,47.7963979370464,False,True,False,False,
+EWMA (alpha=0.2),75,stable,False,True,32.145996428272966,False,True,False,False,
+EWMA (alpha=0.2),76,stable,False,True,15.998212520847519,False,True,False,False,
+EWMA (alpha=0.2),77,stable,False,True,7.851589316186292,False,True,False,False,
+EWMA (alpha=0.2),78,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),79,stable,False,True,38.96505804418094,False,True,False,False,
+EWMA (alpha=0.2),80,stable,False,True,38.93044250958202,False,True,False,False,
+EWMA (alpha=0.2),81,stable,False,True,29.375285897019424,False,True,False,False,
+EWMA (alpha=0.2),82,stable,False,True,12.318303809887212,False,True,False,False,
+EWMA (alpha=0.2),83,stable,False,True,9.61995050406042,False,True,False,False,
+EWMA (alpha=0.2),84,stable,False,True,5.751353282749006,False,True,False,False,
+EWMA (alpha=0.2),85,stable,False,True,24.854283652007926,False,True,False,False,
+EWMA (alpha=0.2),86,stable,False,True,8.058036667697191,False,True,False,False,
+EWMA (alpha=0.2),87,stable,False,True,10.226161779995131,False,True,False,False,
+EWMA (alpha=0.2),88,stable,False,True,54.3294518935853,False,True,False,False,
+EWMA (alpha=0.2),89,stable,False,True,9.671680890381658,False,True,False,False,
+EWMA (alpha=0.2),90,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),91,stable,False,True,8.099713168367087,False,True,False,False,
+EWMA (alpha=0.2),92,stable,False,True,6.970464728749186,False,True,False,False,
+EWMA (alpha=0.2),93,stable,False,True,25.67409753706874,False,True,False,False,
+EWMA (alpha=0.2),94,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),95,stable,False,True,38.46738869177465,False,True,False,False,
+EWMA (alpha=0.2),96,stable,False,True,2.5037212292747597,False,True,False,False,
+EWMA (alpha=0.2),97,stable,False,True,11.213650897566742,False,True,False,False,
+EWMA (alpha=0.2),98,stable,False,True,53.04245271691989,False,True,False,False,
+EWMA (alpha=0.2),99,stable,False,True,8.542693524922234,False,True,False,False,
+EWMA (alpha=0.2),100,stable,False,True,32.92845362694722,False,True,False,False,
+EWMA (alpha=0.2),101,stable,False,True,43.77883735095123,False,True,False,False,
+EWMA (alpha=0.2),102,stable,False,True,3.5138520683933074,False,True,False,False,
+EWMA (alpha=0.2),103,stable,False,True,9.025500187829003,False,True,False,False,
+EWMA (alpha=0.2),104,stable,False,True,27.43296238637066,False,True,False,False,
+EWMA (alpha=0.2),105,stable,False,True,4.535583366075647,False,True,False,False,
+EWMA (alpha=0.2),106,stable,False,True,2.604522492566093,False,True,False,False,
+EWMA (alpha=0.2),107,stable,False,True,1.3143483894554815,False,True,False,False,
+EWMA (alpha=0.2),108,stable,False,True,8.892194086339593,False,True,False,False,
+EWMA (alpha=0.2),109,stable,False,True,41.856883945904535,False,True,False,False,
+EWMA (alpha=0.2),110,stable,False,True,7.3743456756063654,False,True,False,False,
+EWMA (alpha=0.2),111,stable,False,True,18.17309928196668,False,True,False,False,
+EWMA (alpha=0.2),112,stable,False,True,20.791850669972806,False,True,False,False,
+EWMA (alpha=0.2),113,stable,False,True,2.191496002632345,False,True,False,False,
+EWMA (alpha=0.2),114,stable,False,True,16.012425254736797,False,True,False,False,
+EWMA (alpha=0.2),115,stable,False,True,7.634942329273985,False,True,False,False,
+EWMA (alpha=0.2),116,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),117,stable,False,True,22.003106789152,False,True,False,False,
+EWMA (alpha=0.2),118,stable,False,True,39.010585250678474,False,True,False,False,
+EWMA (alpha=0.2),119,stable,False,False,,False,False,False,True,
+EWMA (alpha=0.2),120,stable,False,True,37.43518970383771,False,True,False,False,
+EWMA (alpha=0.2),121,stable,False,True,42.48799009402679,False,True,False,False,
+EWMA (alpha=0.2),122,stable,False,True,2.5622743937093984,False,True,False,False,
+EWMA (alpha=0.2),123,stable,False,True,13.588685583179055,False,True,False,False,
+EWMA (alpha=0.2),124,stable,False,True,8.886224623501564,False,True,False,False,
+EWMA (alpha=0.2),125,stable,False,True,24.36211536177499,False,True,False,False,
+EWMA (alpha=0.2),126,gradual_drift,True,True,3.9553307272568987,False,True,False,False,
+EWMA (alpha=0.2),127,gradual_drift,True,True,5.595542362403663,False,True,False,False,
+EWMA (alpha=0.2),128,gradual_drift,True,True,42.08836846703635,True,False,False,False,7.561503320976129
+EWMA (alpha=0.2),129,gradual_drift,True,True,12.472658313043835,False,True,False,False,
+EWMA (alpha=0.2),130,gradual_drift,True,True,18.02829596026335,False,True,False,False,
+EWMA (alpha=0.2),131,gradual_drift,True,True,4.16895756118984,False,True,False,False,
+EWMA (alpha=0.2),132,gradual_drift,True,True,39.739547367152184,True,False,False,False,9.30822664599878
+EWMA (alpha=0.2),133,gradual_drift,True,True,13.901834208717132,False,True,False,False,
+EWMA (alpha=0.2),134,gradual_drift,True,True,27.854890284707118,False,True,False,False,
+EWMA (alpha=0.2),135,gradual_drift,True,True,14.864305044778657,False,True,False,False,
+EWMA (alpha=0.2),136,gradual_drift,True,True,35.79233499999956,True,False,False,False,11.562605940343872
+EWMA (alpha=0.2),137,gradual_drift,True,True,9.17726574300631,False,True,False,False,
+EWMA (alpha=0.2),138,gradual_drift,True,True,4.3953366037402954,False,True,False,False,
+EWMA (alpha=0.2),139,gradual_drift,True,True,12.326673809441957,False,True,False,False,
+EWMA (alpha=0.2),140,gradual_drift,True,True,4.7756697761105364,False,True,False,False,
+EWMA (alpha=0.2),141,gradual_drift,True,True,37.18700852549652,True,False,False,False,10.004477340359358
+EWMA (alpha=0.2),142,gradual_drift,True,True,22.496053972205225,False,True,False,False,
+EWMA (alpha=0.2),143,gradual_drift,True,True,16.48068195859615,False,True,False,False,
+EWMA (alpha=0.2),144,gradual_drift,True,True,32.740611014760375,True,False,False,False,13.350792302933364
+EWMA (alpha=0.2),145,gradual_drift,True,True,7.282715105797716,False,True,False,False,
+EWMA (alpha=0.2),146,gradual_drift,True,True,24.9397813601104,False,True,False,False,
+EWMA (alpha=0.2),147,gradual_drift,True,True,10.443040968240371,False,True,False,False,
+EWMA (alpha=0.2),148,gradual_drift,True,True,37.41840768333622,True,False,False,False,10.592095462018193
+EWMA (alpha=0.2),149,gradual_drift,True,True,40.41354360647818,True,False,False,False,8.876176453527577
+EWMA (alpha=0.2),150,gradual_drift,True,True,36.27687005375341,True,False,False,False,6.981771348738924
+EWMA (alpha=0.2),151,gradual_drift,True,True,38.09312467964639,True,False,False,False,9.501782869045854
+EWMA (alpha=0.2),152,gradual_drift,True,True,8.413243083483758,False,True,False,False,
+EWMA (alpha=0.2),153,gradual_drift,True,True,45.891931681489645,True,False,False,False,4.243321432856064
+EWMA (alpha=0.2),154,gradual_drift,True,True,23.039833565682574,False,True,False,False,
+EWMA (alpha=0.2),155,gradual_drift,True,True,2.8500380893476773,False,True,False,False,
+EWMA (alpha=0.2),156,gradual_drift,True,True,4.800602758358411,False,True,False,False,
+EWMA (alpha=0.2),157,gradual_drift,True,True,12.6881356364472,False,True,False,False,
+EWMA (alpha=0.2),158,gradual_drift,True,True,8.227215595774098,False,True,False,False,
+EWMA (alpha=0.2),159,gradual_drift,True,True,20.349937350567533,False,True,False,False,
+EWMA (alpha=0.2),160,gradual_drift,True,True,4.73433797958274,False,True,False,False,
+EWMA (alpha=0.2),161,gradual_drift,True,True,3.7361242778766464,False,True,False,False,
+EWMA (alpha=0.2),162,gradual_drift,True,True,27.907455389343127,False,True,False,False,
+EWMA (alpha=0.2),163,gradual_drift,True,True,11.297700032142995,False,True,False,False,
+EWMA (alpha=0.2),164,gradual_drift,True,True,37.60640216147422,True,False,False,False,11.379217304570936
+EWMA (alpha=0.2),165,gradual_drift,True,True,37.27077214521085,True,False,False,False,9.7972153234452
+EWMA (alpha=0.2),166,gradual_drift,True,True,14.596261512663874,False,True,False,False,
+EWMA (alpha=0.2),167,gradual_drift,True,True,4.366305250931896,False,True,False,False,
+EWMA (alpha=0.2),168,gradual_drift,True,True,35.20580385507515,True,False,False,False,9.162184964224764
+EWMA (alpha=0.2),169,gradual_drift,True,True,40.928607400102884,True,False,False,False,7.662726931076065
+EWMA (alpha=0.2),170,gradual_drift,True,True,46.596725449428185,True,False,False,False,3.9931789865687364
+EWMA (alpha=0.2),171,gradual_drift,True,True,6.55131500395156,False,True,False,False,
+EWMA (alpha=0.2),172,gradual_drift,True,True,6.455515324328765,False,True,False,False,
+EWMA (alpha=0.2),173,gradual_drift,True,True,28.33437631702587,False,True,False,False,
+EWMA (alpha=0.2),174,gradual_drift,True,True,9.091400252562213,False,True,False,False,
+EWMA (alpha=0.2),175,gradual_drift,True,True,40.206022591793676,True,False,False,False,8.082632179831208
+EWMA (alpha=0.2),176,gradual_drift,True,True,33.60462063367733,True,False,False,False,10.828768146711269
+EWMA (alpha=0.2),177,gradual_drift,True,True,8.295608610530762,False,True,False,False,
+EWMA (alpha=0.2),178,gradual_drift,True,True,16.312787108594335,False,True,False,False,
+EWMA (alpha=0.2),179,gradual_drift,True,True,28.346113949486618,False,True,False,False,
+EWMA (alpha=0.2),180,gradual_drift,True,True,26.15932566764638,False,True,False,False,
+EWMA (alpha=0.2),181,gradual_drift,True,True,7.348513397482059,False,True,False,False,
+EWMA (alpha=0.2),182,gradual_drift,True,True,6.0381826746345535,False,True,False,False,
+EWMA (alpha=0.2),183,gradual_drift,True,True,14.421678786751503,False,True,False,False,
+EWMA (alpha=0.2),184,gradual_drift,True,True,28.248403846517263,False,True,False,False,
+EWMA (alpha=0.2),185,gradual_drift,True,True,13.448235449004963,False,True,False,False,
+EWMA (alpha=0.2),186,gradual_drift,True,True,7.051157109728231,False,True,False,False,
+EWMA (alpha=0.2),187,gradual_drift,True,True,14.327113730698713,False,True,False,False,
+EWMA (alpha=0.2),188,gradual_drift,True,True,36.81293772773845,True,False,False,False,6.366832483327151
+EWMA (alpha=0.2),189,gradual_drift,True,True,36.33278531761121,True,False,False,False,11.776745095703845
+EWMA (alpha=0.2),190,gradual_drift,True,True,34.45156915889865,True,False,False,False,11.404172303060534
+EWMA (alpha=0.2),191,gradual_drift,True,True,11.544184043163812,False,True,False,False,
+EWMA (alpha=0.2),192,gradual_drift,True,True,38.56792691620349,True,False,False,False,13.37121520552698
+EWMA (alpha=0.2),193,gradual_drift,True,True,27.860392649397117,False,True,False,False,
+EWMA (alpha=0.2),194,gradual_drift,True,True,14.191518074048124,False,True,False,False,
+EWMA (alpha=0.2),195,gradual_drift,True,True,31.0878146479029,True,False,False,False,12.398503350468093
+EWMA (alpha=0.2),196,gradual_drift,True,True,10.001666369041942,False,True,False,False,
+EWMA (alpha=0.2),197,gradual_drift,True,True,2.2355349195526357,False,True,False,False,
+EWMA (alpha=0.2),198,gradual_drift,True,True,29.93252244175481,False,True,False,False,
+EWMA (alpha=0.2),199,gradual_drift,True,True,6.181810377274976,False,True,False,False,
+EWMA (alpha=0.2),200,gradual_drift,True,True,34.81079430815054,True,False,False,False,13.750579826262566
+EWMA (alpha=0.2),201,gradual_drift,True,True,5.635264759132076,False,True,False,False,
+EWMA (alpha=0.2),202,gradual_drift,True,True,38.6419569726449,True,False,False,False,9.466125070615618
+EWMA (alpha=0.2),203,gradual_drift,True,True,28.056075804809645,False,True,False,False,
+EWMA (alpha=0.2),204,gradual_drift,True,True,22.231061051477297,False,True,False,False,
+EWMA (alpha=0.2),205,gradual_drift,True,True,26.703822868043897,False,True,False,False,
+EWMA (alpha=0.2),206,gradual_drift,True,True,39.674552812452795,True,False,False,False,9.358832867557794
+EWMA (alpha=0.2),207,gradual_drift,True,True,25.933327495685216,False,True,False,False,
+EWMA (alpha=0.2),208,gradual_drift,True,True,31.143376442196562,False,True,False,False,
+EWMA (alpha=0.2),209,gradual_drift,True,True,11.08838073176725,False,True,False,False,
+EWMA (alpha=0.2),210,gradual_drift,True,True,2.430515748207548,False,True,False,False,
+EWMA (alpha=0.2),211,gradual_drift,True,True,12.733692533298369,False,True,False,False,
+EWMA (alpha=0.2),212,gradual_drift,True,True,11.88519738736121,False,True,False,False,
+EWMA (alpha=0.2),213,gradual_drift,True,True,27.072697790052022,False,True,False,False,
+EWMA (alpha=0.2),214,gradual_drift,True,True,12.932867056145396,False,True,False,False,
+EWMA (alpha=0.2),215,gradual_drift,True,True,12.577758255551464,False,True,False,False,
+EWMA (alpha=0.2),216,gradual_drift,True,True,31.162643936040666,True,False,False,False,11.515630870599836
+EWMA (alpha=0.2),217,gradual_drift,True,True,18.193774375347786,False,True,False,False,
+EWMA (alpha=0.2),218,gradual_drift,True,True,6.763884063270945,False,True,False,False,
+EWMA (alpha=0.2),219,gradual_drift,True,True,33.396061946111146,True,False,False,False,8.984428381243973
+EWMA (alpha=0.2),220,gradual_drift,True,True,5.48595213083518,False,True,False,False,
+EWMA (alpha=0.2),221,gradual_drift,True,True,32.9793418049354,True,False,False,False,11.185619822128814
+EWMA (alpha=0.2),222,gradual_drift,True,True,5.532656772351224,False,True,False,False,
+EWMA (alpha=0.2),223,gradual_drift,True,True,6.57971901181876,False,True,False,False,
+EWMA (alpha=0.2),224,gradual_drift,True,True,33.62703460856503,True,False,False,False,8.716693395698393
+EWMA (alpha=0.2),225,gradual_drift,True,True,35.56960607466219,True,False,False,False,10.328979307390725
+EWMA (alpha=0.2),226,gradual_drift,True,True,37.94775773656697,True,False,False,False,6.035993281655948
+EWMA (alpha=0.2),227,gradual_drift,True,True,13.847833175568708,False,True,False,False,
+EWMA (alpha=0.2),228,gradual_drift,True,True,3.3747730077264144,False,True,False,False,
+EWMA (alpha=0.2),229,gradual_drift,True,True,36.37483867024399,True,False,False,False,6.805490730980111
+EWMA (alpha=0.2),230,gradual_drift,True,True,40.30023977267687,True,False,False,False,9.93334966306616
+EWMA (alpha=0.2),231,gradual_drift,True,True,42.00345459233178,True,False,False,False,8.522737898152485
+EWMA (alpha=0.2),232,gradual_drift,True,True,17.271595016047463,False,True,False,False,
+EWMA (alpha=0.2),233,gradual_drift,True,True,36.44179099360002,True,False,False,False,8.812954465018208
+EWMA (alpha=0.2),234,gradual_drift,True,True,40.92307413629765,True,False,False,False,5.499503310230722
+EWMA (alpha=0.2),235,gradual_drift,True,True,17.670273280441627,False,True,False,False,
+EWMA (alpha=0.2),236,gradual_drift,True,True,6.524913135665749,False,True,False,False,
+EWMA (alpha=0.2),237,gradual_drift,True,True,10.9724893956142,False,True,False,False,
+EWMA (alpha=0.2),238,gradual_drift,True,True,33.10652195159571,False,True,False,False,
+EWMA (alpha=0.2),239,gradual_drift,True,True,33.35292535724767,True,False,False,False,14.166168833105601
+EWMA (alpha=0.2),240,gradual_drift,True,True,35.70611742902084,True,False,False,False,9.500649417498373
+EWMA (alpha=0.2),241,gradual_drift,True,True,38.17181786306729,True,False,False,False,10.071080505465616
+EWMA (alpha=0.2),242,gradual_drift,True,True,29.41292917573622,True,False,False,False,12.730662864701461
+EWMA (alpha=0.2),243,gradual_drift,True,True,1.5644950031797396,False,True,False,False,
+EWMA (alpha=0.2),244,gradual_drift,True,True,28.996316066924717,False,True,False,False,
+EWMA (alpha=0.2),245,gradual_drift,True,True,6.462144838449519,False,True,False,False,
+EWMA (alpha=0.2),246,gradual_drift,True,True,3.5937312351167416,False,True,False,False,
+EWMA (alpha=0.2),247,gradual_drift,True,True,10.77241745720968,False,True,False,False,
+EWMA (alpha=0.2),248,gradual_drift,True,True,9.90450226825854,False,True,False,False,
+EWMA (alpha=0.2),249,gradual_drift,True,True,31.823983604857403,False,True,False,False,
+EWMA (alpha=0.2),250,gradual_drift,True,True,35.70144420114722,True,False,False,False,9.631680056014275
+EWMA (alpha=0.2),251,abrupt_spike,True,True,36.5098198877947,False,True,False,False,
+EWMA (alpha=0.2),252,abrupt_spike,True,True,27.449194991083864,False,True,False,False,
+EWMA (alpha=0.2),253,abrupt_spike,True,True,33.778948064108356,True,False,False,False,-0.7858708232551663
+EWMA (alpha=0.2),254,abrupt_spike,True,True,5.925163025421058,False,True,False,False,
+EWMA (alpha=0.2),255,abrupt_spike,True,True,4.200314984927992,False,True,False,False,
+EWMA (alpha=0.2),256,abrupt_spike,True,True,15.744815358980343,False,True,False,False,
+EWMA (alpha=0.2),257,abrupt_spike,True,True,6.237414312707228,False,True,False,False,
+EWMA (alpha=0.2),258,abrupt_spike,True,True,4.257708559547773,False,True,False,False,
+EWMA (alpha=0.2),259,abrupt_spike,True,True,11.22185092182742,False,True,False,False,
+EWMA (alpha=0.2),260,abrupt_spike,True,True,5.112453094076407,False,True,False,False,
+EWMA (alpha=0.2),261,abrupt_spike,True,True,15.311754950703623,False,True,False,False,
+EWMA (alpha=0.2),262,abrupt_spike,True,True,40.60299790166652,True,False,False,False,-0.37403259759900465
+EWMA (alpha=0.2),263,abrupt_spike,True,True,23.385874549677112,False,True,False,False,
+EWMA (alpha=0.2),264,abrupt_spike,True,True,7.40820123085545,False,True,False,False,
+EWMA (alpha=0.2),265,abrupt_spike,True,True,26.5211771466091,False,True,False,False,
+EWMA (alpha=0.2),266,abrupt_spike,True,True,15.552505925023862,False,True,False,False,
+EWMA (alpha=0.2),267,abrupt_spike,True,True,12.781328442935761,False,True,False,False,
+EWMA (alpha=0.2),268,abrupt_spike,True,True,36.93138018950349,False,True,False,False,
+EWMA (alpha=0.2),269,abrupt_spike,True,True,7.9801020482058185,False,True,False,False,
+EWMA (alpha=0.2),270,abrupt_spike,True,True,37.189053379566,True,False,False,False,-1.8971880320215746
+EWMA (alpha=0.2),271,abrupt_spike,True,True,25.511382911376092,False,True,False,False,
+EWMA (alpha=0.2),272,abrupt_spike,True,True,5.520651212320472,False,True,False,False,
+EWMA (alpha=0.2),273,abrupt_spike,True,True,4.067523255222319,False,True,False,False,
+EWMA (alpha=0.2),274,abrupt_spike,True,True,37.29781863985016,False,True,False,False,
+EWMA (alpha=0.2),275,abrupt_spike,True,True,31.774781538595313,False,True,False,False,
+EWMA (alpha=0.2),276,abrupt_spike,True,True,5.492703511174133,False,True,False,False,
+EWMA (alpha=0.2),277,abrupt_spike,True,True,13.086327522498664,False,True,False,False,
+EWMA (alpha=0.2),278,abrupt_spike,True,True,40.651655824030016,True,False,False,False,-1.0501765591656849
+EWMA (alpha=0.2),279,abrupt_spike,True,True,6.544714661744679,False,True,False,False,
+EWMA (alpha=0.2),280,abrupt_spike,True,True,25.169253683697402,False,True,False,False,
+EWMA (alpha=0.2),281,abrupt_spike,True,True,7.067303150967403,False,True,False,False,
+EWMA (alpha=0.2),282,abrupt_spike,True,True,10.398125024232776,False,True,False,False,
+EWMA (alpha=0.2),283,abrupt_spike,True,True,40.35524033252014,True,False,False,False,-0.5624580353226492
+EWMA (alpha=0.2),284,abrupt_spike,True,True,41.89264614261431,True,False,False,False,-0.34953640887518134
+EWMA (alpha=0.2),285,abrupt_spike,True,True,43.01708124755014,False,True,False,False,
+EWMA (alpha=0.2),286,abrupt_spike,True,True,38.47259604442547,True,False,False,False,-0.5697010116418255
+EWMA (alpha=0.2),287,abrupt_spike,True,True,26.292509317711026,False,True,False,False,
+EWMA (alpha=0.2),288,abrupt_spike,True,True,4.303705271183856,False,True,False,False,
+EWMA (alpha=0.2),289,abrupt_spike,True,True,6.936117181435483,False,True,False,False,
+EWMA (alpha=0.2),290,abrupt_spike,True,True,4.420171699144265,False,True,False,False,
+EWMA (alpha=0.2),291,abrupt_spike,True,True,3.3117375602481856,False,True,False,False,
+EWMA (alpha=0.2),292,abrupt_spike,True,True,38.732374574984824,False,True,False,False,
+EWMA (alpha=0.2),293,abrupt_spike,True,True,41.31131956192226,True,False,False,False,-0.2444690188734313
+EWMA (alpha=0.2),294,abrupt_spike,True,True,5.796641303469088,False,True,False,False,
+EWMA (alpha=0.2),295,abrupt_spike,True,True,1.3272186253220308,False,True,False,False,
+EWMA (alpha=0.2),296,abrupt_spike,True,True,8.376690753206901,False,True,False,False,
+EWMA (alpha=0.2),297,abrupt_spike,True,True,33.7680193477096,True,False,False,False,-0.07849278389754488
+EWMA (alpha=0.2),298,abrupt_spike,True,True,16.71054806203449,False,True,False,False,
+EWMA (alpha=0.2),299,abrupt_spike,True,True,36.36722994406989,True,False,False,False,-0.3652369919535374
+EWMA (alpha=0.2),300,abrupt_spike,True,True,1.6238123300481373,False,True,False,False,
+EWMA (alpha=0.2),301,abrupt_spike,True,True,39.57812965441003,True,False,False,False,-1.6929091760307529
+EWMA (alpha=0.2),302,abrupt_spike,True,True,17.209032502175766,False,True,False,False,
+EWMA (alpha=0.2),303,abrupt_spike,True,True,37.8223497633176,False,True,False,False,
+EWMA (alpha=0.2),304,abrupt_spike,True,True,34.611037681191604,True,False,False,False,-1.6993936231636297
+EWMA (alpha=0.2),305,abrupt_spike,True,True,28.30778324406785,False,True,False,False,
+EWMA (alpha=0.2),306,abrupt_spike,True,True,43.01209669958643,False,True,False,False,
+EWMA (alpha=0.2),307,abrupt_spike,True,True,9.218765535109698,False,True,False,False,
+EWMA (alpha=0.2),308,abrupt_spike,True,True,33.79057787367745,False,True,False,False,
+EWMA (alpha=0.2),309,abrupt_spike,True,True,35.57855931135969,False,True,False,False,
+EWMA (alpha=0.2),310,abrupt_spike,True,True,9.10873719225302,False,True,False,False,
+EWMA (alpha=0.2),311,abrupt_spike,True,True,27.843902616662525,False,True,False,False,
+EWMA (alpha=0.2),312,abrupt_spike,True,True,6.8699532356857596,False,True,False,False,
+EWMA (alpha=0.2),313,abrupt_spike,True,True,7.936022627610974,False,True,False,False,
+EWMA (alpha=0.2),314,abrupt_spike,True,True,6.7092310977858665,False,True,False,False,
+EWMA (alpha=0.2),315,abrupt_spike,True,True,7.624357152449106,False,True,False,False,
+EWMA (alpha=0.2),316,abrupt_spike,True,True,37.74700292243925,False,True,False,False,
+EWMA (alpha=0.2),317,abrupt_spike,True,True,3.424642287101568,False,True,False,False,
+EWMA (alpha=0.2),318,abrupt_spike,True,True,32.24217818692618,False,True,False,False,
+EWMA (alpha=0.2),319,abrupt_spike,True,True,4.542830907920042,False,True,False,False,
+EWMA (alpha=0.2),320,abrupt_spike,True,True,35.40348725243858,False,True,False,False,
+EWMA (alpha=0.2),321,abrupt_spike,True,True,33.281887464359905,True,False,False,False,-0.6231467847990757
+EWMA (alpha=0.2),322,abrupt_spike,True,True,3.934615243230261,False,True,False,False,
+EWMA (alpha=0.2),323,abrupt_spike,True,True,10.70499160970379,False,True,False,False,
+EWMA (alpha=0.2),324,abrupt_spike,True,True,38.15883841905897,True,False,False,False,-1.0420054878557892
+EWMA (alpha=0.2),325,abrupt_spike,True,True,2.798812366907648,False,True,False,False,
+EWMA (alpha=0.2),326,abrupt_spike,True,True,7.755634335806057,False,True,False,False,
+EWMA (alpha=0.2),327,abrupt_spike,True,True,8.959834369530949,False,True,False,False,
+EWMA (alpha=0.2),328,abrupt_spike,True,True,3.7385071846801408,False,True,False,False,
+EWMA (alpha=0.2),329,abrupt_spike,True,True,10.578837008513101,False,True,False,False,
+EWMA (alpha=0.2),330,abrupt_spike,True,True,36.031757593359266,True,False,False,False,-1.4536620478308961
+EWMA (alpha=0.2),331,abrupt_spike,True,True,35.36989798740124,True,False,False,False,-1.0717566917043655
+EWMA (alpha=0.2),332,abrupt_spike,True,True,5.220428767804182,False,True,False,False,
+EWMA (alpha=0.2),333,abrupt_spike,True,True,35.563431456276774,True,False,False,False,-0.6899828489206499
+EWMA (alpha=0.2),334,abrupt_spike,True,True,6.871555444997324,False,True,False,False,
+EWMA (alpha=0.2),335,abrupt_spike,True,True,13.298503843814407,False,True,False,False,
+EWMA (alpha=0.2),336,abrupt_spike,True,True,15.984752980279215,False,True,False,False,
+EWMA (alpha=0.2),337,abrupt_spike,True,True,44.10071141288218,False,True,False,False,
+EWMA (alpha=0.2),338,abrupt_spike,True,True,38.698871730526406,True,False,False,False,-0.3290908107840096
+EWMA (alpha=0.2),339,abrupt_spike,True,True,38.316351428509286,False,True,False,False,
+EWMA (alpha=0.2),340,abrupt_spike,True,True,40.01887759486987,True,False,False,False,-0.23556430503642645
+EWMA (alpha=0.2),341,abrupt_spike,True,True,3.3766839079500066,False,True,False,False,
+EWMA (alpha=0.2),342,abrupt_spike,True,True,37.15619144482453,True,False,False,False,-1.4765572404480025
+EWMA (alpha=0.2),343,abrupt_spike,True,True,4.155955447432589,False,True,False,False,
+EWMA (alpha=0.2),344,abrupt_spike,True,True,28.747023290400247,False,True,False,False,
+EWMA (alpha=0.2),345,abrupt_spike,True,True,38.4683755978302,True,False,False,False,-0.13410789134906054
+EWMA (alpha=0.2),346,abrupt_spike,True,True,41.97932067774452,True,False,False,False,-0.15754170149671864
+EWMA (alpha=0.2),347,abrupt_spike,True,True,11.651266192227919,False,True,False,False,
+EWMA (alpha=0.2),348,abrupt_spike,True,True,40.20888063239008,True,False,False,False,-0.42450454592962217
+EWMA (alpha=0.2),349,abrupt_spike,True,True,41.92362812999767,True,False,False,False,-0.2758580074525696
+EWMA (alpha=0.2),350,abrupt_spike,True,True,18.179363922481205,False,True,False,False,
+EWMA (alpha=0.2),351,abrupt_spike,True,True,26.02388359893218,False,True,False,False,
+EWMA (alpha=0.2),352,abrupt_spike,True,True,4.697163748164411,False,True,False,False,
+EWMA (alpha=0.2),353,abrupt_spike,True,True,32.49686291880489,False,True,False,False,
+EWMA (alpha=0.2),354,abrupt_spike,True,True,33.06713895409504,True,False,False,False,0.6906831738330581
+EWMA (alpha=0.2),355,abrupt_spike,True,True,35.11428522749822,False,True,False,False,
+EWMA (alpha=0.2),356,abrupt_spike,True,True,6.557415944765273,False,True,False,False,
+EWMA (alpha=0.2),357,abrupt_spike,True,True,27.18320170228707,False,True,False,False,
+EWMA (alpha=0.2),358,abrupt_spike,True,True,17.86477125487497,False,True,False,False,
+EWMA (alpha=0.2),359,abrupt_spike,True,True,43.046962265067904,False,True,False,False,
+EWMA (alpha=0.2),360,abrupt_spike,True,True,36.18479403676833,False,True,False,False,
+EWMA (alpha=0.2),361,abrupt_spike,True,True,37.72826717172906,True,False,False,False,-0.744771262136787
+EWMA (alpha=0.2),362,abrupt_spike,True,True,45.06894795051592,False,True,False,False,
+EWMA (alpha=0.2),363,abrupt_spike,True,True,38.43440097320543,True,False,False,False,-0.04786908329104733
+EWMA (alpha=0.2),364,abrupt_spike,True,True,42.80079881200514,False,True,False,False,
+EWMA (alpha=0.2),365,abrupt_spike,True,True,8.943871547414954,False,True,False,False,
+EWMA (alpha=0.2),366,abrupt_spike,True,True,33.78383406556922,False,True,False,False,
+EWMA (alpha=0.2),367,abrupt_spike,True,True,3.7963108625030926,False,True,False,False,
+EWMA (alpha=0.2),368,abrupt_spike,True,True,32.31996033100388,False,True,False,False,
+EWMA (alpha=0.2),369,abrupt_spike,True,True,8.20796110422959,False,True,False,False,
+EWMA (alpha=0.2),370,abrupt_spike,True,True,36.80628934054636,False,True,False,False,
+EWMA (alpha=0.2),371,abrupt_spike,True,True,42.20466209183885,False,True,False,False,
+EWMA (alpha=0.2),372,abrupt_spike,True,True,40.35005293085919,True,False,False,False,-0.08435236275862223
+EWMA (alpha=0.2),373,abrupt_spike,True,True,29.467634001231595,False,True,False,False,
+EWMA (alpha=0.2),374,abrupt_spike,True,True,8.918179645956972,False,True,False,False,
+EWMA (alpha=0.2),375,abrupt_spike,True,True,18.71708927823565,False,True,False,False,
+EWMA (alpha=0.2),376,high_noise,False,True,8.15156254601448,False,True,False,False,
+EWMA (alpha=0.2),377,high_noise,False,True,9.397682410131385,False,True,False,False,
+EWMA (alpha=0.2),378,high_noise,False,True,24.9241174608144,False,True,False,False,
+EWMA (alpha=0.2),379,high_noise,False,True,57.94494459638418,False,True,False,False,
+EWMA (alpha=0.2),380,high_noise,False,True,26.435740206395216,False,True,False,False,
+EWMA (alpha=0.2),381,high_noise,False,True,5.971790550853467,False,True,False,False,
+EWMA (alpha=0.2),382,high_noise,False,True,1.8583075413152237,False,True,False,False,
+EWMA (alpha=0.2),383,high_noise,False,True,12.854096809961883,False,True,False,False,
+EWMA (alpha=0.2),384,high_noise,False,True,4.036512716387599,False,True,False,False,
+EWMA (alpha=0.2),385,high_noise,False,True,1.3061832154300197,False,True,False,False,
+EWMA (alpha=0.2),386,high_noise,False,True,20.20339431684706,False,True,False,False,
+EWMA (alpha=0.2),387,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),388,high_noise,False,True,13.03820271075602,False,True,False,False,
+EWMA (alpha=0.2),389,high_noise,False,True,20.577246463608073,False,True,False,False,
+EWMA (alpha=0.2),390,high_noise,False,True,4.84365190698386,False,True,False,False,
+EWMA (alpha=0.2),391,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),392,high_noise,False,True,42.82375415922055,False,True,False,False,
+EWMA (alpha=0.2),393,high_noise,False,True,4.317066025929067,False,True,False,False,
+EWMA (alpha=0.2),394,high_noise,False,True,1.9814756658432993,False,True,False,False,
+EWMA (alpha=0.2),395,high_noise,False,True,26.248567479633106,False,True,False,False,
+EWMA (alpha=0.2),396,high_noise,False,True,5.206077587768489,False,True,False,False,
+EWMA (alpha=0.2),397,high_noise,False,True,1.7594448099094568,False,True,False,False,
+EWMA (alpha=0.2),398,high_noise,False,True,2.003197643461742,False,True,False,False,
+EWMA (alpha=0.2),399,high_noise,False,True,7.506286590549737,False,True,False,False,
+EWMA (alpha=0.2),400,high_noise,False,True,31.112956297960913,False,True,False,False,
+EWMA (alpha=0.2),401,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),402,high_noise,False,True,44.39462883161165,False,True,False,False,
+EWMA (alpha=0.2),403,high_noise,False,True,7.984260924309256,False,True,False,False,
+EWMA (alpha=0.2),404,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),405,high_noise,False,True,3.1292560351627454,False,True,False,False,
+EWMA (alpha=0.2),406,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),407,high_noise,False,True,2.9811091582674765,False,True,False,False,
+EWMA (alpha=0.2),408,high_noise,False,True,16.22097518691546,False,True,False,False,
+EWMA (alpha=0.2),409,high_noise,False,True,4.904470625138099,False,True,False,False,
+EWMA (alpha=0.2),410,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),411,high_noise,False,True,7.272738221320454,False,True,False,False,
+EWMA (alpha=0.2),412,high_noise,False,True,4.193739364538288,False,True,False,False,
+EWMA (alpha=0.2),413,high_noise,False,True,19.417568668986878,False,True,False,False,
+EWMA (alpha=0.2),414,high_noise,False,True,22.974715050587047,False,True,False,False,
+EWMA (alpha=0.2),415,high_noise,False,True,17.821954280332733,False,True,False,False,
+EWMA (alpha=0.2),416,high_noise,False,True,21.793879128494076,False,True,False,False,
+EWMA (alpha=0.2),417,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),418,high_noise,False,True,33.816319332200706,False,True,False,False,
+EWMA (alpha=0.2),419,high_noise,False,True,51.201186716571385,False,True,False,False,
+EWMA (alpha=0.2),420,high_noise,False,True,3.3432902918039353,False,True,False,False,
+EWMA (alpha=0.2),421,high_noise,False,True,4.521946910169958,False,True,False,False,
+EWMA (alpha=0.2),422,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),423,high_noise,False,True,14.64066901607258,False,True,False,False,
+EWMA (alpha=0.2),424,high_noise,False,True,1.511459713106954,False,True,False,False,
+EWMA (alpha=0.2),425,high_noise,False,True,2.0247901531803674,False,True,False,False,
+EWMA (alpha=0.2),426,high_noise,False,True,16.637381903669365,False,True,False,False,
+EWMA (alpha=0.2),427,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),428,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),429,high_noise,False,True,7.959473111468679,False,True,False,False,
+EWMA (alpha=0.2),430,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),431,high_noise,False,True,47.01945513716519,False,True,False,False,
+EWMA (alpha=0.2),432,high_noise,False,True,8.812526998627872,False,True,False,False,
+EWMA (alpha=0.2),433,high_noise,False,True,32.250697743684256,False,True,False,False,
+EWMA (alpha=0.2),434,high_noise,False,True,5.122798283427096,False,True,False,False,
+EWMA (alpha=0.2),435,high_noise,False,True,41.270290992856204,False,True,False,False,
+EWMA (alpha=0.2),436,high_noise,False,True,2.581093850909725,False,True,False,False,
+EWMA (alpha=0.2),437,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),438,high_noise,False,True,6.7769580941595615,False,True,False,False,
+EWMA (alpha=0.2),439,high_noise,False,True,16.48407553556784,False,True,False,False,
+EWMA (alpha=0.2),440,high_noise,False,True,30.247458684738625,False,True,False,False,
+EWMA (alpha=0.2),441,high_noise,False,True,8.123015789799,False,True,False,False,
+EWMA (alpha=0.2),442,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),443,high_noise,False,True,4.065786246839245,False,True,False,False,
+EWMA (alpha=0.2),444,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),445,high_noise,False,True,10.159105102968963,False,True,False,False,
+EWMA (alpha=0.2),446,high_noise,False,True,8.563533699502212,False,True,False,False,
+EWMA (alpha=0.2),447,high_noise,False,True,22.59717481254642,False,True,False,False,
+EWMA (alpha=0.2),448,high_noise,False,True,1.438905101406705,False,True,False,False,
+EWMA (alpha=0.2),449,high_noise,False,True,34.6833346422107,False,True,False,False,
+EWMA (alpha=0.2),450,high_noise,False,True,3.661335163077519,False,True,False,False,
+EWMA (alpha=0.2),451,high_noise,False,True,29.296047497426937,False,True,False,False,
+EWMA (alpha=0.2),452,high_noise,False,True,10.880080028677622,False,True,False,False,
+EWMA (alpha=0.2),453,high_noise,False,True,2.323830802749316,False,True,False,False,
+EWMA (alpha=0.2),454,high_noise,False,True,11.65583973987692,False,True,False,False,
+EWMA (alpha=0.2),455,high_noise,False,True,57.56902766625478,False,True,False,False,
+EWMA (alpha=0.2),456,high_noise,False,True,30.149460351743432,False,True,False,False,
+EWMA (alpha=0.2),457,high_noise,False,True,2.808773528803476,False,True,False,False,
+EWMA (alpha=0.2),458,high_noise,False,True,4.037638885825914,False,True,False,False,
+EWMA (alpha=0.2),459,high_noise,False,True,22.095210046839046,False,True,False,False,
+EWMA (alpha=0.2),460,high_noise,False,True,8.540570713967686,False,True,False,False,
+EWMA (alpha=0.2),461,high_noise,False,True,3.4165896135811438,False,True,False,False,
+EWMA (alpha=0.2),462,high_noise,False,True,4.8374961649148664,False,True,False,False,
+EWMA (alpha=0.2),463,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),464,high_noise,False,True,3.658219871926768,False,True,False,False,
+EWMA (alpha=0.2),465,high_noise,False,True,10.083526109443582,False,True,False,False,
+EWMA (alpha=0.2),466,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),467,high_noise,False,True,7.0695138374283655,False,True,False,False,
+EWMA (alpha=0.2),468,high_noise,False,True,8.814869624450223,False,True,False,False,
+EWMA (alpha=0.2),469,high_noise,False,True,1.7603546961458905,False,True,False,False,
+EWMA (alpha=0.2),470,high_noise,False,True,2.969744057314303,False,True,False,False,
+EWMA (alpha=0.2),471,high_noise,False,True,8.388298432570469,False,True,False,False,
+EWMA (alpha=0.2),472,high_noise,False,True,6.709036010096801,False,True,False,False,
+EWMA (alpha=0.2),473,high_noise,False,True,9.771901483594506,False,True,False,False,
+EWMA (alpha=0.2),474,high_noise,False,True,8.458815418236561,False,True,False,False,
+EWMA (alpha=0.2),475,high_noise,False,True,6.786223238115401,False,True,False,False,
+EWMA (alpha=0.2),476,high_noise,False,True,4.8269818843458,False,True,False,False,
+EWMA (alpha=0.2),477,high_noise,False,True,13.252205700301168,False,True,False,False,
+EWMA (alpha=0.2),478,high_noise,False,True,9.252286541444994,False,True,False,False,
+EWMA (alpha=0.2),479,high_noise,False,True,6.39977608182542,False,True,False,False,
+EWMA (alpha=0.2),480,high_noise,False,True,3.6303426972206467,False,True,False,False,
+EWMA (alpha=0.2),481,high_noise,False,True,4.581704889893808,False,True,False,False,
+EWMA (alpha=0.2),482,high_noise,False,True,5.600505058752537,False,True,False,False,
+EWMA (alpha=0.2),483,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),484,high_noise,False,False,,False,False,False,True,
+EWMA (alpha=0.2),485,high_noise,False,True,17.57290336870069,False,True,False,False,
+EWMA (alpha=0.2),486,high_noise,False,True,12.990523176759076,False,True,False,False,
+EWMA (alpha=0.2),487,high_noise,False,True,5.492391236990727,False,True,False,False,
+EWMA (alpha=0.2),488,high_noise,False,True,17.43318617649688,False,True,False,False,
+EWMA (alpha=0.2),489,high_noise,False,True,14.067540267167661,False,True,False,False,
+EWMA (alpha=0.2),490,high_noise,False,True,6.016202050571554,False,True,False,False,
+EWMA (alpha=0.2),491,high_noise,False,True,52.16281544137934,False,True,False,False,
+EWMA (alpha=0.2),492,high_noise,False,True,6.868630004900819,False,True,False,False,
+EWMA (alpha=0.2),493,high_noise,False,True,4.203264941629366,False,True,False,False,
+EWMA (alpha=0.2),494,high_noise,False,True,38.705311196225594,False,True,False,False,
+EWMA (alpha=0.2),495,high_noise,False,True,3.4381895073291835,False,True,False,False,
+EWMA (alpha=0.2),496,high_noise,False,True,9.349742543320323,False,True,False,False,
+EWMA (alpha=0.2),497,high_noise,False,True,5.473666368049535,False,True,False,False,
+EWMA (alpha=0.2),498,high_noise,False,True,33.3808609100753,False,True,False,False,
+EWMA (alpha=0.2),499,high_noise,False,True,15.41896035559087,False,True,False,False,
+EWMA (alpha=0.2),500,high_noise,False,True,16.861073319212913,False,True,False,False,

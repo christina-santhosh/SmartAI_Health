@@ -1,0 +1,12 @@
+{
+  "algorithm_name": "Priority-Weighted Greedy Constrained Counterfactual Search",
+  "evaluated_patients": 300,
+  "target_risk_threshold_percent": 25.0,
+  "success_rate": 0.55,
+  "success_rate_percent": "55.0%",
+  "average_changed_features": 2.36,
+  "average_normalized_intervention_cost": 4.12,
+  "feasibility_rate_percent": "100.0%",
+  "constraint_violations": 0,
+  "disclaimer": "Counterfactual results are model-based hypothetical scenarios and are not medical advice or treatment recommendations."
+}

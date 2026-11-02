@@ -1,0 +1,7 @@
+Subgroup,Sample Count,Positive Count,ROC-AUC,Sensitivity,Specificity,Brier Score,Positive Selection Rate
+Overall Test Cohort,600,280,0.874,0.8143,0.8,0.142,0.4867
+Female (sex=0),300,123,0.8391,0.7642,0.791,0.1591,0.4367
+Male (sex=1),300,157,0.9018,0.8535,0.8112,0.125,0.5367
+Age < 45 years,203,33,0.7863,0.3333,0.9647,0.1108,0.0837
+Age 45-65 years,210,101,0.8276,0.7723,0.7156,0.1702,0.519
+Age > 65 years,187,146,0.7509,0.9521,0.3415,0.1443,0.8877
